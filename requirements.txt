@@ -1,6 +1,6 @@
 streamlit==1.50.0
 faiss-cpu
-sentence-transformers
-transformers
-torch
-numpy
+sentence-transformers==2.2.2
+transformers==4.39.3
+torch==2.1.0
+numpy==1.26.4
