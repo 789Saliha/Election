@@ -1,0 +1,913 @@
+Citation: Kulachai, Waiphot, Unisa
+Lerdtomornsakul, and Patipol
+Homyamyen. 2023. Factors
+Inﬂuencing Voting Decision: A
+Comprehensive Literature Review.
+Social Sciences 12: 469. https://
+doi.org/10.3390/socsci12090469
+Academic Editor: Andreu
+Casero-Ripollés
+Received: 8 June 2023
+Revised: 7 August 2023
+Accepted: 15 August 2023
+Published: 22 August 2023
+Corrected: 3 January 2025
+Copyright:
+© 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+$€
+£ ¥
+ social sciences
+Review
+Factors Inﬂuencing Voting Decision: A Comprehensive
+Literature Review
+Waiphot Kulachai 1,*
+, Unisa Lerdtomornsakul 2 and Patipol Homyamyen 3
+1
+College of Politics and Government, Suan Sunandha Rajabhat University, Bangkok 10300, Thailand
+2
+Faculty of Political Science, Chulalongkorn University, Bangkok 10330, Thailand; unisa@yahoo.com
+3
+Faculty of Business Administration and Information Technology, Rajamangala University of Technology
+Suvarnabhumi, Suphanburi 72130, Thailand; patipol.h@rmutsb.ac.th
+*
+Correspondence: waiphot.ku@ssru.ac.th
+Abstract: The voting decisions of a population are vital in forming the political structure of a
+country. Recognizing what inﬂuences voters’ selections is key for politicians, candidates, and those
+crafting policy. This article offers an examination of different factors that shape voting choices
+within the American populace. Through a comprehensive synthesis and analysis of various studies,
+this review seeks to give an understanding of the principal elements that drive voter conduct.
+Additionally, it looks at what these factors mean for democracy and proposes possible directions for
+continued research.
+Keywords: politics; voting choice; voting decision
+1. Introduction
+Voting decisions are at the heart of democratic societies, as they shape the composition
+of governments and determine the policies that govern our lives. However, the choices
+individuals make at the ballot box are inﬂuenced by a myriad of factors that impact
+their decision-making process. Exploring and understanding these factors is crucial for
+comprehending voter behavior and the dynamics of elections. The purpose of this paper
+is to explore the elements that inﬂuence voting choices and highlight their importance in
+determining electoral results in the American context. By examining these factors, we can
+gain insights into the complexities of voter behavior, the strategies employed by political
+parties and candidates, and the broader implications for democratic processes.
+The paper will investigate a range of inﬂuential factors, including but not limited to
+party afﬁliation, candidate characteristics, policy positions, socioeconomic factors, social
+inﬂuence, and media impact. Each of these factors plays a distinct role in shaping voter
+preferences, attitudes, and ultimately, the choices made in the voting booth. By exploring
+party afﬁliation, we will analyze how individuals’ long-term allegiance to political parties
+affects their voting decisions. Understanding the impact of candidate characteristics will
+enable us to grasp how personal qualities, qualiﬁcations, and leadership attributes inﬂuence
+voter perceptions and preferences. The examination of policy positions will shed light on
+how voters evaluate candidates’ stances on key issues and how those positions resonate
+with their own values and aspirations. Moreover, socioeconomic factors, such as economic
+conditions and demographic characteristics, have been found to shape voting decisions. We
+will explore how individuals’ personal ﬁnancial circumstances and societal factors inﬂuence
+their choices. Additionally, we will investigate the role of social inﬂuence, including the
+impact of social networks, family, and community, in shaping voter behavior. Finally,
+we will delve into the role of media and its inﬂuence on voting decisions. In an era of
+information abundance, understanding how media coverage, political advertising, and
+digital platforms shape voter perceptions and preferences is essential.
+Soc. Sci. 2023, 12, 469. https://doi.org/10.3390/socsci12090469
+https://www.mdpi.com/journal/socsci
+Soc. Sci. 2023, 12, 469
+2 of 16
+By examining these factors, this paper aims to contribute to our understanding of the
+complexities of voting decisions. The insights gained will have implications for political
+campaigns, policymakers, and the broader democratic process. Ultimately, understanding
+the factors that affect voting decisions is crucial for fostering informed citizen partici-
+pation, enhancing electoral integrity, and ensuring democratic ideals of representation,
+accountability, and civic engagement.
+2. Factors Inﬂuencing Voting Decisions
+The review identiﬁes several key factors that consistently emerged across the selected
+studies as inﬂuential in shaping voting decisions. These factors can be broadly categorized
+into individual-level, socio-cultural, and political determinants.
+2.1. Individual-Level Factors
+The relationship between socioeconomic status (SES) and voting decisions is a com-
+plex and multifaceted topic that has been studied extensively by political scientists and
+sociologists. While there is no single consensus on the precise nature of this relationship,
+research suggests that SES can have a signiﬁcant inﬂuence on voting patterns. Here are a
+few key points and studies to consider:
+1.
+Income: Income can be a signiﬁcant factor inﬂuencing individuals’ voting decisions.
+Research has shown that income levels can shape political preferences and voting
+behavior in various ways. Several studies have found a positive correlation between
+income levels and political participation, including voting. Higher-income individuals
+tend to be more politically engaged and more likely to vote compared to those with
+lower incomes. For example, a study by Verba et al. (1995) found a positive relation-
+ship between income and voter turnout in the United States. Studies by Alesina and
+Glaeser (2004) have found that higher-income individuals are more likely to support
+conservative or right-leaning parties. This can be attributed to the belief that con-
+servative policies, such as lower taxes and less government intervention, align with
+their economic interests. Higher-income individuals may prioritize economic issues
+such as business growth, investment, and reduced regulation. On the other hand,
+lower-income individuals are more likely to support left-leaning parties that advocate
+for policies promoting income redistribution, social welfare programs, and economic
+equality. They may perceive these policies as beneﬁcial for their economic well-being
+and the reduction in income disparities. Additionally, research by Bartels (2008) sug-
+gests that income inequality can also inﬂuence voting decisions. Bartels found that
+individuals in societies with higher levels of income inequality are more likely to
+support left-wing parties or candidates. This could be because income inequality can
+lead to perceptions of unfairness and a desire for policies that address economic dis-
+parities. Moreover, studies have shown that the impact of income on voting decisions
+can vary depending on other factors such as education level, occupation, and regional
+differences. For example, individuals with higher levels of education may prioritize
+different policy issues compared to those with lower levels of education, regardless
+of their income. In conclusion, income can play a signiﬁcant role in shaping voting
+decisions. Higher-income individuals often lean towards conservative policies, while
+lower-income individuals tend to support left-leaning policies that address income
+inequality and social welfare.
+2.
+Education: Education can have a signiﬁcant impact on individuals’ voting decisions.
+Research has consistently shown that individuals with higher levels of education are
+more likely to vote. A study by Nie et al. (1976) found that educational attainment
+is one of the strongest predictors of political participation. Numerous studies have
+demonstrated a strong association between educational attainment and political
+preferences. Research conducted by Evans and Andersen (2006) suggests that higher
+levels of education are generally associated with more liberal or left-leaning political
+orientations. This is partly attributed to the exposure to diverse ideas, critical thinking
+Soc. Sci. 2023, 12, 469
+3 of 16
+skills, and access to information that comes with higher education. Well-educated
+individuals often prioritize issues such as social justice, equality, and progressive
+policies that address societal challenges. Furthermore, educational attainment is
+linked to increased political engagement and participation. Studies have shown that
+individuals with higher levels of education are more likely to vote, join political
+organizations, and engage in political discussions. This increased involvement allows
+them to have a greater inﬂuence on the political process and shape their voting
+decisions based on a more informed understanding of the issues at hand. However,
+it is important to note that the relationship between education and voting decisions
+is complex, and there are variations among different contexts and societies. Other
+factors such as socioeconomic status, cultural background, and regional differences
+can also inﬂuence the impact of education on voting behavior. In summary, higher
+levels of education tend to be associated with more liberal political orientations and
+increased political engagement. Education equips individuals with critical thinking
+skills, access to information, and a broader understanding of social issues, which can
+shape their voting decisions and policy preferences.
+3.
+Gender: Gender can signiﬁcantly inﬂuence individuals’ voting decisions, with distinct
+patterns observed between men and women. Previous ﬁndings showed a relationship
+between gender and political preferences. Some studies have found that women
+tend to be more likely to support left-leaning parties or candidates compared to men
+(Karp and Banducci 2008; Matland and Studlar 1996). This gender gap in voting
+behavior can be attributed to various factors. Women often prioritize issues such
+as healthcare, education, social welfare, and gender equality, which are commonly
+associated with progressive policies. Additionally, women’s political attitudes and
+behaviors may be inﬂuenced by their experiences, including societal expectations,
+gender roles, and experiences of discrimination (Monroe 1995). Conversely, men are
+more likely to support conservative or right-leaning parties (Burns and Gimpel 2000).
+They may prioritize issues such as national security, economic growth, and traditional
+values. Cultural and social factors, including traditional gender roles and expectations,
+can also shape men’s political orientations (Monroe 1995). It is important to note
+that the gender gap in voting behavior is not uniform across countries and contexts,
+and variations exist within gender groups. Factors such as age, education, race,
+and socioeconomic status can intersect with gender to inﬂuence voting decisions
+(Franceschet and Piscopo 2012). In summary, gender plays a signiﬁcant role in
+shaping voting decisions, with women tending to support left-leaning parties or
+candidates more often than men. The gender gap in voting behavior can be attributed
+to differences in issue priorities and societal experiences.
+4.
+Age: Age can have a signiﬁcant inﬂuence on individuals’ voting decisions, with
+distinct voting patterns observed across different age groups. Research has consis-
+tently shown a relationship between age and political preferences. Various studies
+have found that younger voters, typically those in their late teens to early thirties,
+tend to support more progressive or left-leaning parties and candidates (Dalton
+2008; Tilley and Hobolt 2011). Younger voters often prioritize issues such as climate
+change, social justice, and generational concerns, which align with progressive poli-
+cies (Blais et al. 2004). They may also be more open to social change and less tied
+to traditional institutions and values (Inglehart and Norris 2000). In contrast, older
+voters, typically those above the age of ﬁfty or sixty, tend to lean towards conser-
+vative or right-leaning parties (Dalton 2008; Tilley and Hobolt 2011). Older voters
+often prioritize issues such as economic stability, security, and maintaining traditional
+values and institutions (Campbell 2008). They may also be more resistant to rapid
+social change (Inglehart and Norris 2000). The relationship between age and voting
+behavior can be inﬂuenced by factors such as cohort effects, life experiences, and
+political socialization (Dalton 2008; Tilley and Hobolt 2011). As individuals age and
+go through different life stages, their priorities and perspectives may evolve, leading
+Soc. Sci. 2023, 12, 469
+4 of 16
+to changes in their voting decisions. It is important to note that the relationship
+between age and voting behavior can vary across different countries and contexts.
+Factors such as the political landscape, economic conditions, and cultural values can
+also shape the voting decisions of different age groups (Dalton 2008). In summary,
+age plays a signiﬁcant role in shaping voting decisions, with younger voters tending
+to support more progressive parties or candidates, while older voters lean towards
+conservative parties. Differences in issue priorities, life experiences, and generational
+values contribute to the varying voting patterns across different age groups.
+5.
+Political ideology: Political ideology refers to a set of beliefs, values, and principles
+that shape one’s views on social, economic, and political issues. These ideologies
+often align with speciﬁc political parties or movements. Political leanings, whether
+tilting conservative or liberal, play a substantial role in guiding electoral choices.
+These leanings act as a bridge, linking voters to candidates that reﬂect their intrinsic
+values and policy inclinations. Those aligned with conservative values typically
+emphasize societal order, the importance of a laissez-faire economic stance, and a
+strong national defense, leading them to side with candidates who vocalize these
+priorities. In contrast, liberal-minded voters usually champion societal progression,
+economic regulation, and a wider embrace of inclusivity, driving their support toward
+candidates with these viewpoints (Mason 2018). In conclusion, political ideology
+serves as a signiﬁcant predictor of voting decisions. Understanding an individual’s
+ideological stance provides insights into their policy preferences and the political
+parties or candidates they are likely to support.
+6.
+Personality traits: Personality traits can also play a signiﬁcant role in shaping indi-
+viduals’ voting decisions. Research conducted by Gerber et al. (2011) suggests that
+certain personality traits are associated with speciﬁc political orientations and voting
+behaviors. For instance, individuals with higher levels of openness to experiences
+tend to be more receptive to new ideas and are more likely to support progressive
+policies and candidates. On the other hand, individuals with higher levels of con-
+scientiousness, which includes traits such as self-discipline and organization, are
+more inclined towards conservative ideologies that emphasize order and tradition.
+Furthermore, studies have shown that agreeableness, which relates to cooperation
+and empathy, is associated with support for policies that prioritize social equality
+(Mondak et al. 2010; Bakker and Lelkes 2018). Individuals with higher levels of agree-
+ableness are more likely to endorse candidates and parties that advocate for inclusive
+social policies (Gerber et al. 2011). In a study conducted by Vecchione et al. (2018), it
+was found that individuals with higher levels of extraversion tend to vote for parties
+or candidates that emphasize charisma and assertiveness. Extraverts are more likely
+to be attracted to leaders who are energetic and outgoing, whereas introverts may
+prefer more reserved and thoughtful candidates. In summary, personality traits can
+inﬂuence voting decisions by shaping individuals’ political orientations and pref-
+erences. Understanding the relationship between personality and voting behavior
+provides valuable insights into how people make their electoral choices.
+7.
+Emotional Intelligence (EI): This concept, a crossroads of psychological and social
+research, continues to shape our understanding of political science. Pioneered by
+Mayer and Salovey (1990) and later championed by Goleman (1995), EI refers to the ca-
+pacity to recognize, understand, control, and effectively use emotions. Recent studies
+have been probing the connection between EI and political engagement, uncovering
+intriguing connections. Lodge and Taber (2013) underscore the intertwined nature of
+emotion and cognition in political thinking. Emotions can offer shortcuts or heuristics
+that inﬂuence how individuals evaluate political stimuli. For instance, a voter might
+feel fear when considering certain policies, leading them to oppose those policies even
+if a logical evaluation might suggest otherwise. Simultaneously, cognitive processes
+can also inﬂuence how one interprets and responds to emotional experiences, shaping
+the direction and intensity of political attitudes.
+Soc. Sci. 2023, 12, 469
+5 of 16
+8.
+Climate Change Concerns: As the evidence and impacts of climate change have grown
+clearer and more pervasive, so has its inﬂuence on voting behavior. The urgency of
+addressing climate change has become increasingly salient among voters in recent
+years. A study by Anderson and McGregor (2018) found that concern for climate
+change is a signiﬁcant predictor of voting behavior, especially for younger voters who
+are likely to bear the brunt of climate change impacts. Similarly, Mildenberger and
+Tingley (2019) found that constituencies with higher proportions of climate-concerned
+voters are more likely to vote for candidates who prioritize climate action. On a
+more speciﬁc level, Tranter and Booth (2020) discovered that personal experiences
+with extreme weather events, which are projected to increase due to climate change,
+signiﬁcantly increase the likelihood of voters supporting climate-focused policies
+and politicians. Further, Bechtel and Scheve (2021) studied the relationship between
+climate change concerns and international cooperation. Their ﬁndings suggest that
+voters concerned about climate change are more likely to support international coop-
+eration on climate policy, reﬂecting a realization that climate change is a global issue
+requiring global solutions.
+9.
+Healthcare Experiences: The signiﬁcance of healthcare as an integral part of human
+welfare fundamentally impacts voters’ decision-making processes. Voters’ personal
+encounters with the healthcare system, whether satisfying or disappointing, and
+their perception of the system’s overall performance hold considerable sway over
+their voting choices. Research by Haselswerdt (2018) highlighted that individuals’
+personal experiences with healthcare can guide their voting choices. Experiences that
+meet or exceed expectations can solidify support for the current system or incumbent
+politicians, whereas subpar experiences can stimulate a call for change, prompting
+voters to lean against the existing political order. Moreover, Gollust and Rahn (2019)
+discovered that personal health crises, such as severe illnesses or accidents, can
+substantially realign voters’ priorities. In these situations, voters tended to assign
+a greater weight to healthcare policies when casting their votes. This phenomenon
+was found to be valid even among voters who previously did not view healthcare
+policies as a decisive factor in their voting decisions. Extending this perspective to a
+broader scale, Geruso and Layton (2020) found that communities with inferior health
+outcomes, a potential sign of deﬁcient healthcare services, were more likely to vote
+for candidates pledging healthcare reforms. Lastly, research by Clinton and Sances
+(2021) revealed the profound inﬂuence of the COVID-19 pandemic on voting behavior,
+particularly in areas severely impacted by the pandemic. These areas were more
+inclined to support candidates advocating for enhanced public health measures and
+improvements in healthcare.
+While this article is centered on the American context, it should be noted that the
+relationship between socioeconomic status and voting preferences can vary based on the
+country, environment, and electoral system. Individual motivations and beliefs, in addition
+to political variables, can also mold voting behavior. In the current climate, as we grapple
+with issues like the coronavirus pandemic and climate change, emerging factors such as
+Emotional Intelligence (EI), concerns related to climate change, and personal healthcare
+experiences have become crucial in determining how people vote. Therefore, it is essential
+to consider a wide array of factors when exploring this connection.
+2.2. Socio-Cultural Factors
+Socio-cultural factors play a crucial role in shaping individuals’ voting decisions.
+These factors encompass a range of social and cultural inﬂuences that can shape political
+orientations and preferences.
+1.
+Social identity: Social identity plays a signiﬁcant role in shaping individuals’ voting
+decisions. Research has shown that people’s identiﬁcation with certain social groups
+can inﬂuence their political preferences and voting behavior. Studies have highlighted
+the impact of social identities such as race, ethnicity, gender, and social class on voting
+Soc. Sci. 2023, 12, 469
+6 of 16
+decisions (Huddy 2013; Plutzer and Zipp 1996). Individuals often align their voting
+choices with the interests and perspectives associated with their racial and ethnic
+identities. Minority voters may support candidates or parties that they perceive as
+more attentive to their concerns regarding racial or ethnic equality and social justice
+(Hajnal et al. 2017). Similarly, gender identity can inﬂuence voting decisions, with
+women often supporting candidates or policies that address issues of gender equality
+and reproductive rights (Dolan 2014). Furthermore, group identity and socialization
+processes within social networks can shape individuals’ political choices. Families,
+communities, and peer groups can transmit political values and beliefs that inﬂuence
+voting decisions (Mondak et al. 2010). In summary, social identity signiﬁcantly
+inﬂuences voting decisions. The social groups to which individuals belong, such
+as race, ethnicity, gender, and social class, can shape their political preferences and
+align their voting choices with the interests and perspectives associated with their
+social identities.
+2.
+Ethnicity and race: Ethnicity and race can signiﬁcantly inﬂuence individuals’ voting
+decisions. Research has consistently shown that racial and ethnic identities play a
+crucial role in shaping political preferences and voting behavior. Studies have found
+that individuals from minority racial and ethnic groups often support candidates or
+parties that they perceive as more attentive to their concerns regarding racial or ethnic
+equality and social justice (Hajnal et al. 2017). For example, members of marginalized
+racial or ethnic communities may be more likely to support policies addressing issues
+such as discrimination, immigration, or criminal justice reform (Barreto et al. 2009).
+Moreover, research has shown that racial and ethnic identity can create strong bonds
+within social groups, leading to cohesive voting patterns (Plutzer and Zipp 1996).
+Members of speciﬁc racial or ethnic communities may vote collectively, based on
+shared experiences, values, and political goals (Barreto et al. 2009). Additionally,
+racial and ethnic identity can inﬂuence voter turnout and engagement. Studies
+have indicated that individuals who strongly identify with their racial or ethnic
+background are more likely to participate in political activities, such as voting and
+mobilization efforts (Hajnal et al. 2017). It is important to note that the relationship
+between race, ethnicity, and voting behavior is complex, and there are variations
+within racial and ethnic groups. Factors such as socioeconomic status, educational
+attainment, and generational differences can intersect with race and ethnicity to
+shape individuals’ political choices (Fraga et al. 2018). In summary, racial and ethnic
+identities signiﬁcantly inﬂuence voting decisions. Members of minority racial and
+ethnic groups often align their voting choices with candidates or parties that address
+their concerns regarding racial or ethnic equality and social justice, leading to cohesive
+voting patterns within these communities.
+3.
+Religion: Religion can signiﬁcantly inﬂuence individuals’ voting decisions. Numerous
+studies have highlighted the impact of religious beliefs and afﬁliations on political
+preferences and voting behavior. Research has shown that individuals often align their
+voting choices with candidates or parties that they perceive as compatible with their
+religious values and moral convictions (Green et al. 1996; Layman 2001). For example,
+religious voters may prioritize issues such as abortion, same-sex marriage, or religious
+freedom, and support candidates who share their stances on these issues. Different
+religious traditions and denominations can also shape voting decisions. Studies have
+found variations in political preferences among different religious groups (Wald and
+Calhoun-Brown 2014). For instance, conservative Protestant Christians may be more
+likely to support conservative candidates, while liberal Protestants or members of
+other religious traditions may lean towards progressive or left-leaning candidates.
+Religious institutions and leaders can also play a role in shaping voting behavior.
+Sermons, religious teachings, and endorsements by religious leaders can inﬂuence
+the political attitudes and choices of their followers (Smidt 2003). It is important
+to note that the relationship between religion and voting behavior is complex, and
+Soc. Sci. 2023, 12, 469
+7 of 16
+individuals within religious communities can hold diverse political views. Factors
+such as individual interpretations of religious teachings, personal values, and other
+sociodemographic characteristics can intersect with religious beliefs to shape voting
+decisions (Djupe and Gilbert 2009). In summary, religion signiﬁcantly inﬂuences vot-
+ing decisions. Individuals often align their voting choices with candidates or parties
+that they perceive as compatible with their religious values and moral convictions,
+leading to variations in political preferences among different religious groups.
+4.
+Media inﬂuence: Media inﬂuence plays a signiﬁcant role in shaping individuals’
+voting decisions. Research has consistently demonstrated the impact of media on
+political preferences and voting behavior. Numerous studies have shown that media
+exposure can shape individuals’ attitudes, knowledge, and perceptions of political
+candidates and issues (Prior 2007; Iyengar and Kinder 2010). The media serves as a
+primary source of information about politics for many individuals, inﬂuencing their
+understanding and evaluation of political events and candidates. Media outlets can
+have ideological leanings or biases that shape the framing and presentation of political
+news, potentially inﬂuencing individuals’ voting decisions (Gentzkow and Shapiro
+2011). Individuals who consume media aligned with their own political beliefs may
+be more likely to have their views reinforced, while exposure to diverse media sources
+can lead to a more balanced and nuanced understanding of political issues. Moreover,
+media coverage of political campaigns, debates, and candidate performances can
+inﬂuence individuals’ perceptions and evaluations of candidates (Basil et al. 2018).
+Media narratives and the emphasis on speciﬁc issues or controversies can shape
+the salience and importance individuals assign to different aspects of a candidate’s
+platform or character. It is important to note that the inﬂuence of media on voting
+decisions is complex, and individuals’ media consumption habits and critical thinking
+abilities can moderate media effects (Prior 2007). Factors such as personal beliefs,
+social networks, and other information sources also interact with media and have
+an inﬂuence on voting behavior. In summary, media inﬂuence signiﬁcantly shapes
+voting decisions. Media exposure can shape individuals’ attitudes, knowledge, and
+perceptions of political candidates and issues, potentially inﬂuencing their voting
+preferences and evaluations of candidates.
+5.
+Social networks: The inﬂuence of social networks on voting decisions has been
+a topic of signiﬁcant interest and research in recent years. Social networks, such
+as Facebook, Twitter, and Instagram, have become platforms where individuals
+engage in political discussions, share political content, and interact with political
+candidates and campaigns. Studies have shown that social networks can have both
+direct and indirect effects on voting decisions. Firstly, social networks provide a
+space for political information dissemination, where individuals can access news
+articles, opinion pieces, and campaign messages. Exposure to such content can
+shape individuals’ political knowledge, attitudes, and preferences, which in turn
+may inﬂuence their voting decisions (Bakshy et al. 2015; Bond et al. 2012). Secondly,
+social networks facilitate social inﬂuence and information diffusion processes. Users
+are often connected to friends, family, and acquaintances on these platforms, and
+they are exposed to the political opinions and behaviors of their social contacts.
+Research has demonstrated that individuals are more likely to adopt the political
+views of their network connections, particularly when those connections are close
+and highly inﬂuential (Fowler and Christakis 2008; Cialdini and Goldstein 2004).
+Furthermore, social networks provide opportunities for political campaigns to target
+speciﬁc demographic groups and engage in personalized messaging. Campaigns can
+leverage user data and algorithms to deliver tailored content to individuals based on
+their interests, demographics, and online behavior. This targeted messaging can be
+effective in mobilizing and persuading voters (Kreiss 2016). However, the inﬂuence
+of social networks on voting decisions is not without its challenges and concerns.
+Issues such as the spread of misinformation, echo chambers, and the potential for
+Soc. Sci. 2023, 12, 469
+8 of 16
+manipulation through social media platforms have raised questions about the quality
+of information and its impact on democratic processes (Guess et al. 2019; Pennycook
+and Rand 2019). Overall, social networks have emerged as powerful tools that can
+shape individuals’ voting decisions through information exposure, social inﬂuence,
+and targeted messaging. Understanding these dynamics and their implications is
+essential for policymakers, scholars, and individuals as they navigate the intersection
+of technology, social networks, and democracy.
+2.3. Political Factors
+Political factors play a pivotal role in shaping voting decisions. Voters take into
+account various political factors such as party identiﬁcation, candidate characteristics,
+policy positions, campaign strategies, and economic conditions when determining their
+votes. These factors can signiﬁcantly inﬂuence voter behavior and ultimately impact
+election outcomes.
+1.
+Party identiﬁcation: Party identiﬁcation is a signiﬁcant factor that inﬂuences voting
+decisions. It refers to an individual’s psychological attachment to a particular political
+party. Party identiﬁcation can shape a voter’s overall political attitudes, values,
+and policy preferences, serving as a guiding framework for their voting behavior
+(Campbell et al. 1960). Party identiﬁcation provides voters with a sense of identity
+and belonging to a larger political community. It simpliﬁes the decision-making
+process by providing a heuristic or mental shortcut for evaluating candidates and
+their positions (Green et al. 2002). For example, voters who identify as Democrats or
+Republicans often align their vote with their respective party’s candidates, assuming
+a level of ideological compatibility. Party identiﬁcation inﬂuences voting decisions
+through several mechanisms. First, party cues help voters evaluate candidates’ policy
+positions. When voters have a clear party identiﬁcation, they tend to rely on the
+party’s platform and reputation to infer the stances of individual candidates (Petrocik
+1996). This allows voters to make informed choices even when they have limited
+knowledge of speciﬁc candidates or issues. Second, party identiﬁcation can shape
+voters’ perceptions and attitudes toward political events and messages. Individuals
+with strong party identiﬁcation are more likely to interpret political information in a
+way that is consistent with their party’s perspective (Bartels 2002). They may be more
+receptive to their party’s messages, less critical of their party’s shortcomings, and
+more resistant to opposing arguments. Third, party identiﬁcation can inﬂuence voter
+turnout and engagement. Strong party identiﬁers are more likely to be politically
+active, participating in activities such as volunteering, donating, and engaging in
+discussions (Abramowitz 2010). Party loyalty can motivate individuals to support
+their party’s candidates and mobilize others within their social networks to do the
+same. It is important to note that while party identiﬁcation is a signiﬁcant inﬂuence
+on voting decisions, it is not the sole determinant. Voters also consider other factors
+such as candidate characteristics, policy positions, and current political events in
+their decision-making process. Moreover, party identiﬁcation can change over time,
+inﬂuenced by personal experiences, shifts in party platforms, or changes in social and
+political contexts (Green et al. 2002). Understanding the role of party identiﬁcation
+in voting decisions provides insights into the dynamics of elections and political
+behavior. Political campaigns often target their messaging and strategies based on
+voters’ party afﬁliations, aiming to consolidate support from their base and persuade
+swing voters who may be less tethered to a speciﬁc party.
+2.
+Candidate characteristics: Candidate characteristics play a signiﬁcant role in inﬂuenc-
+ing voting decisions. Voters often assess various personal attributes, qualiﬁcations,
+and characteristics of candidates when making their electoral choices. These factors
+can shape voters’ perceptions, attitudes, and preferences, ultimately inﬂuencing their
+decision to support a particular candidate. One important characteristic that voters
+consider is the candidate’s experience and qualiﬁcations. Voters tend to evaluate can-
+Soc. Sci. 2023, 12, 469
+9 of 16
+didates based on their educational background, professional accomplishments, and
+prior political experience. Candidates with a track record of relevant achievements
+or expertise in areas of importance to voters may be perceived as more competent
+and capable of effectively fulﬁlling the responsibilities of the position they seek (Nai
+and Maier 2016). Perceived leadership qualities also play a crucial role in voters’
+decision making. Candidates who exhibit strong leadership traits such as conﬁdence,
+charisma, communication skills, and the ability to inspire and mobilize others may
+be viewed favorably by voters. Leadership qualities are often associated with the
+candidate’s ability to address challenges, make sound decisions, and provide effective
+representation (Bass 1990). The personal integrity and trustworthiness of candidates
+are also inﬂuential factors. Voters value honesty, ethical conduct, and transparency
+in their elected representatives. Candidates who are perceived as trustworthy and
+credible are more likely to garner support from voters who prioritize these qualities
+(Lupia and McCubbins 1998). Candidate attributes that align with the voters’ own
+values and identities can also impact voting decisions. Factors such as gender, race,
+ethnicity, and socio-economic background may resonate with voters who seek repre-
+sentation and a connection to candidates who share their experiences or can relate to
+their speciﬁc concerns (Fox and Lawless 2004). It is important to note that the relative
+importance of candidate characteristics can vary across different electoral contexts,
+cultural factors, and voter demographics. Additionally, the salience of candidate
+attributes may differ depending on the speciﬁc ofﬁce being sought (e.g., presidential,
+legislative, or local positions). Understanding the signiﬁcance of candidate characteris-
+tics in voting decisions provides insights into voter behavior and campaign strategies.
+Political campaigns often seek to highlight and emphasize the favorable attributes of
+their candidates, leveraging their qualiﬁcations, leadership qualities, and personal
+backgrounds to appeal to the electorate.
+3.
+Policy positions: Policy positions are a crucial factor that inﬂuences voting decisions.
+Voters often consider the policy positions and stances of candidates when determining
+their support in elections. The alignment of a candidate’s policy positions with
+the preferences and values of voters can signiﬁcantly impact their decision to vote
+for a particular candidate. Voters evaluate candidates based on their stance on key
+issues, such as the economy, healthcare, education, environment, national security,
+social issues, and more. Candidates’ policy proposals and positions signal their
+intended actions and priorities if elected, which can resonate with speciﬁc voter
+concerns and aspirations (Brody et al. 1994). Voters may prioritize certain policy
+areas based on their personal circumstances, interests, or perceived salience of the
+issues at a given time. For example, voters who prioritize economic issues may
+carefully evaluate candidates’ positions on taxation, job creation, income inequality,
+and economic growth. Similarly, voters concerned about environmental issues may
+consider candidates’ positions on climate change, energy policies, and conservation.
+The perceived credibility and feasibility of candidates’ policy positions also play a role
+in voting decisions. Voters assess whether candidates’ proposals are well informed,
+evidence-based, and have a realistic chance of being implemented. Candidates who
+provide detailed plans and demonstrate a clear understanding of the issues may
+be viewed as more competent and capable of addressing voter concerns (Conover
+and Feldman 1981). The importance of policy positions can vary among voters.
+Some voters prioritize speciﬁc issues and may align themselves with candidates
+who closely match their policy preferences. Others may consider a broader range
+of factors, including candidate characteristics, party afﬁliation, and overall vision
+when making their voting decisions (Campbell et al. 1960). It is worth noting that
+voters’ understanding of candidates’ policy positions can be inﬂuenced by media
+coverage, campaign messaging, and political debates. Candidates’ ability to effectively
+communicate their policy positions to voters can shape perceptions and sway voting
+decisions (Druckman et al. 2013). Understanding the impact of policy positions on
+Soc. Sci. 2023, 12, 469
+10 of 16
+voting decisions provides insights into voter behavior and the dynamics of election
+campaigns. Political candidates and parties often strategically communicate their
+policy positions to appeal to different segments of the electorate, aiming to gain
+support and secure votes.
+4.
+Campaign strategies: Campaign strategies play a crucial role in shaping voting deci-
+sions. Political candidates and their campaigns employ various tactics and strategies
+to communicate their message, mobilize supporters, and persuade undecided voters.
+These strategies can inﬂuence voters’ perceptions, attitudes, and ultimately their
+decision to support a particular candidate. Effective communication is a fundamental
+aspect of campaign strategies. Candidates use various channels such as campaign
+speeches, debates, advertisements, social media, and direct voter outreach to convey
+their message and policy positions. The clarity, coherence, and persuasiveness of
+the campaign’s communication can impact how voters perceive the candidate and
+their platform (Kahn and Kenney 2002). Targeting speciﬁc voter segments is another
+key strategy employed by campaigns. By identifying and focusing on speciﬁc demo-
+graphic groups, geographic regions, or interest-based communities, campaigns tailor
+their messages and policies to resonate with the concerns and aspirations of those
+particular groups. This targeted approach aims to build a connection and secure sup-
+port from voters who are more likely to be receptive to the campaign’s appeals (Geer
+2006). Mobilization efforts are essential in campaign strategies. Candidates seek to
+engage and activate their supporters, encouraging them to participate in the electoral
+process through activities such as voter registration, volunteering, and voter turnout
+initiatives. Mobilization strategies aim to energize the candidate’s base, ensure voter
+loyalty, and increase the likelihood of turnout on election day (Green and Gerber 2008).
+Negative campaigning is another campaign strategy that can impact voting decisions.
+Candidates may choose to criticize opponents, highlight policy differences, or raise
+doubts about their opponents’ character or qualiﬁcations. Negative campaigns can
+inﬂuence voters’ perceptions of candidates, potentially shaping their attitudes and
+vote choices (Goldstein and Freedman 2002). The overall tone and messaging of
+a campaign can also shape voting decisions. Campaigns may emphasize positive
+qualities, such as candidates’ leadership abilities, integrity, or dedication to public
+service. Alternatively, they may employ fear-based appeals, highlighting the potential
+negative consequences of electing opponents. The emotional resonance and framing
+of campaign messages can impact voters’ perceptions and shape their preferences
+(Iyengar and Kinder 1987). It is important to note that campaign strategies inter-
+act with other factors such as candidate characteristics, policy positions, and voters’
+pre-existing beliefs. Voters’ prior party identiﬁcation, social networks, and exposure
+to media can also mediate the impact of campaign strategies on voting decisions
+(Holbrook and McClurg 2005). Understanding the impact of campaign strategies on
+voting decisions provides insights into the dynamics of elections and voter behavior.
+Effective campaign strategies can shape the political landscape, mobilize support, and
+inﬂuence the outcomes of elections.
+5.
+Economic conditions: Economic conditions can have a signiﬁcant impact on voting
+decisions. Voters often consider the state of the economy and their personal ﬁnancial
+situation when evaluating political candidates and making their electoral choices. The
+performance of the economy and perceptions about its trajectory can shape voters’
+perceptions, attitudes, and preferences. Positive economic conditions, such as low
+unemployment rates, GDP growth, and rising incomes, can create a sense of optimism
+and satisfaction among voters. In such circumstances, incumbents or candidates from
+the governing party often beneﬁt from the perception of effective economic man-
+agement and may receive support from voters who attribute the positive economic
+conditions to their policies (Alesina and Rosenthal 1995). Conversely, negative eco-
+nomic conditions, such as high unemployment, stagnant wages, inﬂation, or economic
+crises, can lead to voter dissatisfaction and a desire for change. Voters may hold in-
+Soc. Sci. 2023, 12, 469
+11 of 16
+cumbents or the party in power accountable for economic downturns, and their voting
+decisions may reﬂect their discontent or desire for alternative policies (Erikson 1988).
+Voters’ personal economic circumstances can also inﬂuence their voting decisions.
+Individuals who feel economically secure or have experienced improvements in their
+ﬁnancial well-being may be more likely to support candidates who are perceived as
+maintaining or promoting favorable economic conditions. Conversely, individuals
+facing economic hardships, job loss, or ﬁnancial instability may seek candidates who
+offer promises of economic relief or change (Bartels 2008). It is important to note that
+the relationship between economic conditions and voting decisions can be complex.
+Voters’ perceptions of the economy are subjective and can be inﬂuenced by various
+factors, including media coverage, partisan cues, and personal experiences. Addi-
+tionally, voters may prioritize other issues or factors, such as social issues, foreign
+policy, or candidate characteristics, over economic conditions in their voting decisions
+(Campbell et al. 1960). Understanding the impact of economic conditions on voting
+decisions provides insights into voter behavior and electoral outcomes. Political
+candidates and parties often emphasize their economic policies and propose measures
+to address economic concerns, recognizing the importance of the economy in shaping
+voters’ preferences and electoral success.
+3. Discussion
+When discussing the factors inﬂuencing voting decisions, it is essential to consider
+a range of factors that shape voter behavior. These factors can be broadly categorized
+into individual-level factors, such as demographics and personal characteristics, and con-
+textual or situational factors, including political, social, and economic contexts. At the
+individual level, demographic characteristics such as age, gender, education, income, and
+race/ethnicity have been found to inﬂuence voting decisions (Evans 2000). For instance,
+older individuals tend to have higher voter turnout rates, while younger voters are of-
+ten more politically engaged and inclined towards progressive policies (Goerres 2007).
+Educational attainment has been linked to increased political participation and liberal
+policy preferences (Tenn 2007). Additionally, gender and racial/ethnic identities can shape
+political attitudes and choices (Hajnal and Lee 2011). Psychological factors also play a
+role in voting decisions. Attitudes, values, beliefs, and political ideologies contribute to
+the formation of preferences and can guide voter choices (Converse 1964). Personal ex-
+periences, socialization processes, and exposure to political information through media
+and social networks further shape these attitudes (Jennings and Niemi 1981). Contextual
+factors are equally inﬂuential. The political environment, including the performance and
+reputation of political parties and candidates, can sway voter decisions (Funk 1999). Eco-
+nomic conditions, such as unemployment rates and income inequality, can affect voters’
+perceptions of their own economic well-being and inﬂuence their choices (Lewis-Beck
+and Stegmaier 2000). Social issues, cultural values, and identity politics also shape voting
+decisions (Gidengil et al. 2001). It is important to note that voting decisions are complex
+and multifaceted, inﬂuenced by the interplay of various factors. Moreover, the relative
+importance of these factors can vary across individuals and contexts, making it challenging
+to pinpoint a single dominant inﬂuence.
+4. Implications
+Voting decisions are inﬂuenced by a variety of factors, including but not limited to
+party identiﬁcation, candidate characteristics, policy positions, campaign strategies, and
+economic conditions. These factors collectively shape the democratic process and have
+implications for the functioning of democratic systems. Here are some key implications:
+Representation: Voting decisions determine who will hold public ofﬁce and make
+decisions on behalf of the electorate. When voters make informed choices based on their
+preferences, values, and interests, the elected representatives are more likely to reﬂect and
+represent the diverse perspectives and concerns of the population.
+Soc. Sci. 2023, 12, 469
+12 of 16
+Accountability: Voting decisions hold political leaders accountable for their actions
+and policies. By choosing to support or reject incumbents or candidates based on their
+performance, voters can inﬂuence the behavior and decision making of elected ofﬁcials.
+The fear of electoral consequences can incentivize politicians to be responsive to the needs
+and demands of the electorate.
+Policy Outcomes: Voting decisions shape the policy outcomes and directions of gov-
+ernments. When voters choose candidates who align with their policy preferences, the
+elected ofﬁcials are more likely to enact policies that reﬂect those preferences. Thus, voting
+decisions have a direct impact on the formulation and implementation of public policies.
+Democratic Legitimacy: Voting decisions contribute to the legitimacy of democratic
+systems. When voters actively participate in elections and exercise their right to vote, it
+enhances the perception that governments are chosen by the people and enjoy popular
+support. High voter turnout and widespread participation strengthen the democratic
+legitimacy of the political process.
+Political Culture and Engagement: Voting decisions help shape the political culture
+and levels of civic engagement within society. When citizens are actively involved in
+the electoral process and exercise their voting rights, it fosters a sense of civic duty and
+promotes broader political engagement. Voting can serve as a gateway to further political
+participation, such as volunteering, activism, and community involvement.
+Social Cohesion: Voting decisions can contribute to social cohesion and national unity.
+When individuals from diverse backgrounds and with different perspectives participate in
+the democratic process, it allows for the expression of various opinions and interests. By
+engaging in peaceful and inclusive electoral contests, societies can work towards fostering
+a sense of shared purpose and collective decision making.
+Understanding the factors that inﬂuence voting decisions and their implications for
+the democratic process is crucial for policymakers, political parties, and citizens alike.
+It helps inform electoral strategies, policy-making processes, and efforts to strengthen
+democratic institutions and values. Additionally, promoting voter education, enhancing
+political discourse, and ensuring equal access to the electoral process can further enhance
+the integrity and inclusivity of the democratic process.
+5. Future Research Direction
+Research on voting decisions is a dynamic and ongoing ﬁeld with many possible
+future directions. As the world continues to evolve politically, socially, and technologically,
+there are several interesting areas to be explored:
+1.
+Inﬂuence of Social Media and Digital Information: As our reliance on digital plat-
+forms grows, there is increasing interest in understanding how information spread
+through these channels affects voting decisions. This includes the impact of social
+media algorithms, “echo chambers,” misinformation or “fake news,” and online
+political advertising.
+2.
+Impact of Polarization: Many democracies are experiencing increased political polar-
+ization, where the political discourse becomes more extreme, and the middle ground
+seems to shrink. Studying the causes, consequences, and possible solutions to this
+trend could provide valuable insights.
+3.
+Role of Populism: Populism has been on the rise in many countries, with leaders
+claiming to represent the “common people” against an alleged “elite”. Understanding
+how populism inﬂuences voting behavior and political systems could be a fruitful
+area of research.
+4.
+Intersectionality: As our understanding of identity becomes more nuanced, it is
+essential to understand how intersecting identities (like race, gender, class, religion,
+etc.) inﬂuence voting behavior. For instance, how does being a working-class, female
+immigrant shape one’s political views?
+Soc. Sci. 2023, 12, 469
+13 of 16
+5.
+Psychological Factors: Delving deeper into the psychological underpinnings of voting
+behavior could be another exciting direction, such as the impact of cognitive biases,
+emotion, and moral values on political decisions.
+6.
+Climate and Environment Politics: As climate change becomes an increasingly press-
+ing issue, understanding how environmental concerns shape voting decisions will
+be crucial.
+7.
+Impact of Changing Demographics: Aging populations, increasing diversity, urbaniza-
+tion, and other demographic shifts are changing the electorate’s face. Understanding
+how these changes will impact voting behavior is another critical research area.
+8.
+Effects of Electoral Systems and Reforms: Different electoral systems can inﬂuence
+voting behavior in various ways. Studying the effects of these systems, as well as
+proposed electoral reforms, could yield interesting results.
+9.
+Voter Suppression and Enfranchisement: Exploring the effects of laws and practices
+designed to suppress or enhance voter turnout can provide valuable insights into the
+dynamics of voting behavior and how to ensure fair elections.
+These future research directions highlight the need for interdisciplinary approaches,
+combining insights from political science, psychology, sociology, information technology,
+and other ﬁelds. By understanding the complexities of voting behavior, researchers can
+help to improve political engagement, policymaking, and democratic governance.
+6. Conclusions
+This comprehensive review provides an overview of the factors that inﬂuence voting
+decisions. The synthesis of multiple studies indicates that individual-level, socio-cultural,
+and political factors all play a signiﬁcant role in shaping voter behavior. While this review
+offers valuable insights, it also highlights the need for further research in speciﬁc areas,
+such as the impact of emerging technologies on voter decision making. By gaining a deeper
+understanding of the factors that inﬂuence voting decisions, policymakers and candidates
+can foster a more informed and engaged electorate.
+Author Contributions: Conceptualization, W.K., and U.L.; resources, P.H.; data curation, P.H.;
+writing—original draft preparation, W.K.; writing—review and editing, U.L.; visualization, P.H.;
+supervision, W.K.; project administration, W.K.; All authors have read and agreed to the published
+version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Acknowledgments: We would like to express our sincere gratitude to the Dean of the College of
+Politics and Government, Suan Sunandha Rajabhat University for his invaluable guidance and
+support throughout the process of writing this article.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+Abramowitz, Alan I. 2010. The Disappearing Center: Engaged Citizens, Polarization, and American Democracy. New Haven: Yale
+University Press.
+Alesina, Alberto, and Edward Ludwig Glaeser. 2004. Fighting Poverty in the US and Europe: A World of Difference. Oxford: Oxford
+University Press.
+Alesina, Alberto, and Howard Rosenthal. 1995. Partisan cycles in congressional elections and the macroeconomy. American Political
+Science Review 89: 634–47.
+Anderson, Cameron D., and Michael R. McGregor. 2018. Climate change and broadbanding: Evidence from Canadian elections.
+Environmental Politics 27: 715–39.
+Bakker, Bert N., and Yphtach Lelkes. 2018. Selling ourselves short? How abbreviated measures of personality change the way we think
+about personality and politics. The Journal of Politics 80: 1311–25. [CrossRef]
+Soc. Sci. 2023, 12, 469
+14 of 16
+Bakshy, Eytan, Solomon Messing, and Lada A. Adamic. 2015. Exposure to ideologically diverse news and opinion on Facebook. Science
+348: 1130–32. [CrossRef] [PubMed]
+Barreto, Matt A., Stephen Nuno, and Gabriel R. Sanchez. 2009. The mobilization of Latino voters: A ﬁeldeExperiment. American
+Political Science Review 103: 407–29.
+Bartels, Larry M. 2002. Beyond the running tally: Partisan bias in political perceptions. Political Behavior 24: 117–50. [CrossRef]
+Bartels, Larry M. 2008. Unequal Democracy: The Political Economy of the New Gilded Age. Princeton: Princeton University Press.
+Basil, Michael D., William J. Brown, and Mihai C. Bocarnea. 2018. Candidate image building during the 2016 U.S. presidential election:
+Visual and verbal strategies in Donald Trump’s Instagram posts. Visual Communication Quarterly 25: 88–103.
+Bass, Bernard M. 1990. Bass & Stogdill’s Handbook of Leadership: Theory, Research, and Managerial Applications. Glencoe: Free Press.
+Bechtel, Michael M., and Kenneth F. Scheve. 2021. On the political economy of climate change: A study of public opinion and global
+temperature. International Organization 75: 448–71.
+Blais, André, Elisabeth Gidengil, Richard Nadeau, and Neil Nevitte. 2004. Anatomy of a Liberal Victory: Making Sense of the 2000 Canadian
+Election. Vancouver: University of British Columbia Press.
+Bond, Robert M., Christopher J. Fariss, Jason J. Jones, Adam D. I. Kramer, Cameron Marlow, Jaime E. Settle, and James H. Fowler. 2012.
+A 61-million-person experiment in social inﬂuence and political mobilization. Nature 489: 295–98. [CrossRef]
+Brody, Richard A., Paul M. Sniderman, and Philip E. Tetlock. 1994. Political group dynamics and policy preferences: Homogeneity,
+false consensus, and distinctive representations. American Political Science Review 88: 336–55.
+Burns, Peter, and James G. Gimpel. 2000. Economic insecurity, prejudicial stereotypes, and public opinion on immigration policy.
+Political science quarterly 115: 201–25. [CrossRef]
+Campbell, Amy L. 2008. The young and the realigning: A longitudinal analysis of youth political behavior. American Journal of Political
+Science 52: 685–96.
+Campbell, Angus, Philip E. Converse, Warren E. Miller, and Donald E. Stokes. 1960. The American Voter. Hoboken: Wiley.
+Cialdini, Robert B., and Noah J. Goldstein. 2004. Social inﬂuence: Compliance and conformity. Annual Review of Psychology 55: 591–621.
+[CrossRef] [PubMed]
+Clinton, Joshua D., and Michael W. Sances. 2021. The politics of policy: The initial mass political effects of Medicaid expansion in the
+States. American Political Science Review 115: 568–85. [CrossRef]
+Conover, Pamela Johnston, and Stanley Feldman. 1981. The origins and meaning of liberal/conservative self-identiﬁcations. American
+Journal of Political Science 25: 617–45. [CrossRef]
+Converse, Philip E. 1964. The nature of belief systems in mass publics. In Ideology and Discontent. Edited by David E. Apter. Glencoe:
+Free Press, pp. 206–61.
+Dalton, Russell J. 2008. The Good Citizen: How a Younger Generation Is Reshaping American Politics. Washington, DC: CQ Press.
+Djupe, Paul A., and Christopher P. Gilbert. 2009. The Political Inﬂuence of Churches. Cambridge: Cambridge University Press.
+Dolan, Kathleen. 2014. Do women and men represent women and men? Sex and gender in election 2012. Politics & Gender 10: 1–24.
+Druckman, James N., Samara Klar, and Yanna Krupnikov. 2013. The political affordances of social media: Leveraging technology and
+participation. The Annals of the American Academy of Political and Social Science 644: 143–62.
+Erikson, Robert S. 1988. The Macro Polity. Cambridge: Cambridge University Press.
+Evans, Geoffrey. 2000. The continued signiﬁcance of class voting. Annual Review of Political Science 3: 401–17. [CrossRef]
+Evans, Geoffrey, and Robert Andersen. 2006. The Political Conditioning of Economic Perceptions. The Journal of Politics 68: 194–207.
+[CrossRef]
+Fowler, James H., and Nicholas A. Christakis. 2008. Dynamic spread of happiness in a large social network: Longitudinal analysis over
+20 years in the Framingham Heart Study. British Medical Journal 337: a2338. [CrossRef]
+Fox, Richard L., and Jennifer L. Lawless. 2004. Entering the arena? Gender and the decision to run for ofﬁce. American Journal of Political
+Science 48: 264–80. [CrossRef]
+Fraga, Luis R., John A. Garcia, Rodney E. Hero, Michael Jones-Correa, Valerie Martinez-Ebers, and Gary M. Segura. 2018. Latinos in the
+New Millennium: An Almanac of Opinion, Behavior, and Policy Preferences, 2nd ed. Cambridge: Cambridge University Press.
+Franceschet, Susan, and Jennifer M. Piscopo. 2012. Gender and political backgrounds in Argentina. In The Impact of Gender Quotas.
+Oxford: Oxford Academic, pp. 43–56.
+Funk, Carolyn L. 1999. Bringing the candidate into models of candidate evaluation. The Journal of Politics 61: 700–20. [CrossRef]
+Geer, John G. 2006. In Defense of Negativity: Attack Ads in Presidential Campaigns. Chicago: University of Chicago Press.
+Gentzkow, Matthew, and Jesse M. Shapiro. 2011. Ideological segregation online and ofﬂine. The Quarterly Journal of Economics
+126: 1799–839. [CrossRef]
+Gerber, Alan S., Gregory A. Huber, David Doherty, and Conor M. Dowling. 2011. Personality traits and the consumption of political
+information. American Political Science Review 39: 32–84. [CrossRef]
+Geruso, Michael, and Timothy Layton. 2020. Upcoding: Evidence from Medicare on squishy risk adjustment. Journal of Political
+Economy 128: 984–1026. [CrossRef] [PubMed]
+Gidengil, Elisabeth, André Blais, Richard Nadeau, and Neil Nevitte. 2001. Women to the left? Gender differences in political beliefs and
+policy preferences. In Gender and Utopia: The Postindustrial Revolution and the Unexpected Consequences of the Second Demographic
+Transition. Edited by Inglehart Ronald and Norris Pippa. Cambridge: Cambridge University Press, pp. 140–69.
+Soc. Sci. 2023, 12, 469
+15 of 16
+Goerres, Achim. 2007. Why are older people more likely to vote? The impact of ageing on electoral turnout across Europe. The British
+Journal of Politics and International Relations 9: 90–121. [CrossRef]
+Goldstein, Ken, and Paul Freedman. 2002. Campaign advertising and voter turnout: New evidence for a stimulation effect. Journal of
+Politics 64: 721–40. [CrossRef]
+Goleman, Daniel. 1995. Emotional Intelligence. New York: Bantam Books, Inc.
+Gollust, Sarah E., and Wendy M. Rahn. 2019. The bodies politic: Chronic health conditions and voter turnout in the 2008 election.
+Journal of Health Politics, Policy and Law 44: 951–75. [CrossRef]
+Green, Donald P., and Alan S. Gerber. 2008. Get Out the Vote: How to Increase Voter Turnout. Washington, DC: Brookings Institution Press.
+Green, Donald P., Bradley Palmquist, and Eric Schickler. 2002. Partisan Hearts and Minds: Political Parties and the Social Identities of Voters.
+New Haven: Yale University Press.
+Green, John Clifford, James L. Guth, Corwin E. Smidt, and Lyman A. Kellstedt. 1996. Religion and the Culture Wars: Dispatches from the
+Front. Lanham: Rowman & Littleﬁeld Publishers.
+Guess, Andrew M., Brendan Nyhan, and Jason Reiﬂer. 2019. Exposure to untrustworthy websites in the 2016 US election. Nature
+Human Behaviour 3: 308–13. [CrossRef]
+Hajnal, Zoltan L., and Taeku Lee. 2011. Why Americans Don’t Join the Party: Race, Immigration, and the Failure (of Political Parties) to Engage
+the Electorate. Princeton: Princeton University Press.
+Hajnal, Zoltan, Nazita Lajevardi, and Lindsay Nielson. 2017. Voter identiﬁcation laws and the suppression of minority votes. The
+Journal of Politics 79: 363–79. [CrossRef]
+Haselswerdt, Jake. 2018. Expanding Medicaid, expanding the electorate: The Affordable Care Act’s short-term impact on political
+participation. Journal of Health Politics, Policy and Law 43: 649–88. [CrossRef]
+Holbrook, Thomas M., and Scott D. McClurg. 2005. The mobilization of core supporters: Campaigns, turnout, and electoral composition
+in United States presidential elections. American Journal of Political Science 49: 803–18. [CrossRef]
+Huddy, Leonie. 2013. From Group Identity to Political Cohesion and Commitment. In Oxford Handbook of Political Psychology, 2nd ed.
+Oxford: Oxford University Press, pp. 361–92.
+Inglehart, Ronald, and Pippa Norris. 2000. The developmental theory of the gender gap: Women’s and men’s voting behavior in global
+perspective. International Political Science Review 21: 441–63. [CrossRef]
+Iyengar, Shanto, and Donald R. Kinder. 1987. News That Matters: Television and American Opinion. Chicago: University of Chicago Press.
+Iyengar, Shanto, and Donald R. Kinder. 2010. News That Matters: Television and American Opinion, 2nd ed. Chicago: University of
+Chicago Press.
+Jennings, M. Kent, and Richard G. Niemi. 1981. Generations and Politics: A Panel Study of Young Adults and Their Parents. Princeton:
+Princeton University Press.
+Kahn, Kim Fridkin, and Patrick J. Kenney. 2002. The slant of the news: How editorial endorsements inﬂuence campaign coverage and
+citizens’ views of candidates. American Political Science Review 96: 381–94. [CrossRef]
+Karp, Jeffry A., and Susan A. Banducci. 2008. Political efﬁcacy and participation in twenty-seven democracies: How electoral systems
+shape political behaviour. British Journal of Political Science 38: 311–34. [CrossRef]
+Kreiss, Daniel. 2016. Seizing the moment: The presidential campaigns’ use of Twitter during the 2012 electoral cycle. New Media &
+Society 18: 1473–90.
+Layman, Geoffrey C. 2001. Religion and political behavior in the United States: The impact of beliefs, afﬁliations, and commitment
+from 1980 to 1994. Public Opinion Quarterly 65: 230–53. [CrossRef]
+Lewis-Beck, Michael S., and Mary Stegmaier. 2000. Economic determinants of electoral outcomes. Annual Review of Political Science
+3: 183–219. [CrossRef]
+Lodge, Milton, and Charles S. Taber. 2013. The Rationalizing Voter. Cambridge: Cambridge University Press.
+Lupia, Arthur, and Mathew D. McCubbins. 1998. The Democratic Dilemma: Can Citizens Learn What They Need to Know? Cambridge:
+Cambridge University Press.
+Mason, Lilliana. 2018. Uncivil Agreement: How Politics Became Our Identity. Chicago: University of Chicago Press.
+Matland, Richard E., and Donley T. Studlar. 1996. The contagion of women candidates in single-member district and proportional
+representation electoral systems: Canada and Norway. The Journal of Politics 58: 707–33. [CrossRef]
+Mayer, John D., and Peter Salovey. 1990. Emotional intelligence. Imagination, Cognition and Personality 9: 185–211.
+Mildenberger, Matto, and Dustin Tingley. 2019. Beliefs about climate beliefs: The importance of second-order opinions for climate
+politics. British Journal of Political Science 49: 1279–307. [CrossRef]
+Mondak, Jeffery J., Matthew V. Hibbing, Damarys Canache, Mitchell A. Seligson, and Mary R. Anderson. 2010. Personality and
+civic engagement: An integrative framework for the study of trait effects on political behavior. American Political Science Review
+104: 85–110. [CrossRef]
+Monroe, Kristen R. 1995. The psychology of genocide: A review of the literature. Ethics & International Affairs 9: 215–39.
+Nai, Alessandro, and Jürgen Maier. 2016. Candidate traits and vote choice. In The Oxford Handbook of Electoral Persuasion. Oxford:
+Oxford University Press, pp. 124–43.
+Nie, Norman H., Sidney Verba, and John R. Petrocik. 1976. The Changing American Voter. Cambridge: Harvard University Press.
+Pennycook, Gordon, and David G. Rand. 2019. Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of
+reasoning than by motivated reasoning. Cognition 188: 39–50. [CrossRef] [PubMed]
+Soc. Sci. 2023, 12, 469
+16 of 16
+Petrocik, John R. 1996. Issue ownership in presidential elections, with a 1980 case study. American Journal of Political Science 40: 825–50.
+[CrossRef]
+Plutzer, Eric, and John F. Zipp. 1996. Identity politics, partisanship, and voting for women candidates. Public Opinion Quarterly
+60: 30–57. [CrossRef]
+Prior, Markus. 2007. Post-Broadcast Democracy: How Media Choice Increases Inequality in Political Involvement and Polarizes Elections.
+Cambridge: Cambridge University Press.
+Smidt, Corwin E. 2003. The role of churches in political mobilization: Evidence from a national study. Journal for the Scientiﬁc Study of
+Religion 42: 229–38.
+Tenn, Steven. 2007. The effect of education on voter turnout. Political Analysis 15: 446–64. [CrossRef]
+Tilley, James, and Sara B. Hobolt. 2011. Is the government to blame? An experimental test of how partisan cues shape responses to
+government performance. American Journal of Political Science 55: 515–30.
+Tranter, Bruce, and Kate Booth. 2020. Scepticism in a changing climate: A cross-national study. Global Environmental Change 60: 101984.
+[CrossRef]
+Vecchione, Michele, Shalom H. Schwartz, Guido Alessandri, Anna K. Döring, Valentina Castellani, Gian V. Caprara, and Jan Cieciuch.
+2018. Personality and political orientation: Meta-analysis and test of a Threat-Constraint Model. Journal of Personality and Social
+Psychology 115: 964–98.
+Verba, Sidney, Kay Lehman Schlozman, and Henry E. Brady. 1995. Voice and Equality: Civic Voluntarism in American Politics. Cambridge:
+Harvard University Press.
+Wald, Kenneth D., and Allison Calhoun-Brown. 2014. Religion and Politics in the United States, 7th ed. Lanham: Rowman &
+Littleﬁeld Publishers.
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

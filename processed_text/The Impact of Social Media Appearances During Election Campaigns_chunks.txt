@@ -1,0 +1,1178 @@
+--- Chunk 1 ---
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+1 
+The impact of social media appearances  
+during election campaigns 
+Completed Research Paper 
+ 
+Julian Bühler 
+ESCP Europe Business School Berlin 
+jbuehler@escpeurope.eu 
+Markus Bick 
+ESCP Europe Business School Berlin 
+mbick@escpeurope.eu 
+ 
+ 
+ABSTRACT 
+With social media services gaining importance in recent years, political institutions are continuously incorporating this 
+development especially during elective campaigns. In the present empirical study, we use the Unified Theory of Acceptance 
+and Use of Technology (UTAUT) to conceptualize the level of acceptance of social media appearances. To identify 
+differences when dealing with politically motivated social media appearances, seven hypotheses are derived and tested. We 
+identified the seven most important social media services in Germany and global
+
+--- Chunk 2 ---
+fferences when dealing with politically motivated social media appearances, seven hypotheses are derived and tested. We 
+identified the seven most important social media services in Germany and globally and used an adaptive conjoint-analysis to 
+extract 33 major functions of these services. Controlled by four moderators, multiple analyses of variances expose significant 
+differences referring to effects of UTAUT determinants and thereby towards Behavioral Intention as well as Use Behavior. 
+As elections took place in the USA or will be held in the near future in Germany, these results can be the basis to conduct 
+additional transnational comparative studies in a further step. 
+Keywords 
+Social media services, social networks, politics, elections, election campaigns, Web 2.0. 
+INTRODUCTION 
+Internet-based communication platforms were used extensively by Senator Barack Obama during his elective campaign in 
+preparation of the 55th United States presidential election in 2008. For the firs
+
+--- Chunk 3 ---
+Internet-based communication platforms were used extensively by Senator Barack Obama during his elective campaign in 
+preparation of the 55th United States presidential election in 2008. For the first time these kind of interactive channels were 
+examined by researchers as they were recognized as a tool of major influence which could have a significant impact on the 
+final vote (O’Mera, 2008; Smith, 2009). One year later, the presidential election served as a model for German parties and 
+politicians as they heavily increased the use of social media during the elections for the Bundestag. However, due to their 
+lack of experience with managing these communication channels appropriately, German parties could not benefit as much as 
+their American counterparts (von Pape and Quandt, 2010). 
+On the one hand they were not able to integrate this new approach into their overall offline-strategy and on the other hand 
+they could not properly handle social media to develop its full potential.
+
+--- Chunk 4 ---
+On the one hand they were not able to integrate this new approach into their overall offline-strategy and on the other hand 
+they could not properly handle social media to develop its full potential. Retrospectively, it seems to be obvious that no 
+political protagonist capitalized on an effective social media strategy as measured by typical elements such as dynamic 
+processes, interaction or direct contact and communication (O’Reilly, 2005). Furthermore, German campaigns had 
+concentrated on adopting US-American approaches. Meanwhile, Karlsen (2010) transferred nine significant differences of 
+campaigning styles in the US and Europe to the social media world which Plasser and Plasser (2002) had identified in offline 
+surroundings earlier. 
+The main objective of this study is to analyze which elements and functions of social media services are favored and how 
+they should be applied to develop their full potential in political contexts. We use the Unified Theory of Acceptance and Use
+
+--- Chunk 5 ---
+ich elements and functions of social media services are favored and how 
+they should be applied to develop their full potential in political contexts. We use the Unified Theory of Acceptance and Use 
+of Technology (UTAUT) as a theoretical concept to identify essential insights which can increase the level of acceptance of 
+politically motivated social media appearances (Venkatesh et al., 2003). At this point, our study concentrates on Germany but 
+globally-known social media services (e.g. Facebook) are integrated to make this study applicable to future intercultural 
+research designs.  
+Our methodology is based upon two key elements to test seven hypotheses which refer to the influence of the UTAUT 
+moderators towards its determinants. First, we identify the most important social media services and conduct an adaptive 
+conjoint-analysis with students as a main target group to extract the relevance of certain functions offered by these services. 
+Second, our empirical approach provides
+
+--- Chunk 6 ---
+rvices and conduct an adaptive 
+conjoint-analysis with students as a main target group to extract the relevance of certain functions offered by these services. 
+Second, our empirical approach provides several one-way analyses of variances to measure the level of significance of all 
+four UTAUT determinants. By doing this, we set the basis to apply UTAUT and to answer the following research question: 
+Can social media appearances play a significant role during election campaigns? 
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+2 
+THEORETICAL CONCEPTUALIZATION 
+This section contains a brief definition of our understanding of social media services and appearances, our underlying 
+theoretical model (setting be the basis for further intercultural research projects) and the hypotheses we are going to test. 
+Definition of social media services 
+The term social
+
+--- Chunk 7 ---
+es, our underlying 
+theoretical model (setting be the basis for further intercultural research projects) and the hypotheses we are going to test. 
+Definition of social media services 
+The term social media service is often linked to social networks or even more frequently to Web 2.0 (Chiang et al., 2009). 
+However, according to Lim and Palacios-Marques (2011) “no unified definition about Web 2.0 exists”, neither for social 
+media services nor for networks. Thus, a useful exposure to these kinds of services is to focus on general characteristics like 
+participation or collaboration. For this study, politically motivated appearances within social media areas are understood as 
+an overall strategy using multiple social media services to achieve “a more intense and therefore more democratic form of 
+dialogue and exchange of information between politicians, political parties and institutions, on the one hand, and citizens, on 
+the other” (Hooghe and Teepe, 2007; Coleman, 2005). Even though
+
+--- Chunk 8 ---
+rm of 
+dialogue and exchange of information between politicians, political parties and institutions, on the one hand, and citizens, on 
+the other” (Hooghe and Teepe, 2007; Coleman, 2005). Even though the tenor of this definition can be easily associated with 
+the principles of younger parties in Germany like the aspiring Pirate Party, this study explicitly operates above party line 
+because nowadays most of the major parties are already engaging in this field. 
+Different types of acceptance models 
+In general, acceptance models are used to describe relations between specific key factors and their influence towards positive 
+or negative affections of a certain environment. Within the field of information systems these models focus on technology 
+acceptance in particular. A widely known example is the Technology Acceptance Model (TAM) and its modification 
+(TAM2) which both concentrate on the effects of Perceived Usefulness and Perceived ease of Use on the potential and actual 
+usage (Da
+
+--- Chunk 9 ---
+ple is the Technology Acceptance Model (TAM) and its modification 
+(TAM2) which both concentrate on the effects of Perceived Usefulness and Perceived ease of Use on the potential and actual 
+usage (Davis, 1989; Venkatesh and Davis, 2000). 
+In addition to these predominantly activity-orientated elements, the Theory of Reasoned Action (TRA) by Fishbein and 
+Ajzen takes a different type into account which arises from a deeper psychological level (Ajzen and Fishbein, 1980; Fishbein 
+and Ajzen, 1975). Especially the constructs Attitude toward the behavior and opinions of referent others (Subjective norm) 
+contain important aspects relating to our research question because of the characteristics of social media services mentioned 
+above. TAM and TRA as well as other acceptance models put their specific focus on a different behavioral level but neither 
+orientation should be ignored in this research field. Both the individual behavior relating to social media (represented in 
+TAM) and possibl
+
+--- Chunk 10 ---
+pecific focus on a different behavioral level but neither 
+orientation should be ignored in this research field. Both the individual behavior relating to social media (represented in 
+TAM) and possible group effects such as pressure, forcing a user to adopt a technological system (measured with TRA), must 
+be examined.  
+UTAUT as an integrated approach to measure technology acceptance 
+UTAUT is a model to integrate common approaches like TRA or TAM and others within a single, unified concept 
+(Venkatesh et al., 2003). Table 1 provides an overview of all behavioral models that form the basis of UTAUT: 
+ 
+Model name 
+Developer 
+Years 
+Acronym 
+Theory of Reasoned Action 
+Fishbein, Ajzen 
+1975, ‘80 
+TRA 
+Technology Acceptance Model 
+Davis 
+1986, ‘89 
+TAM 
+Motivational Model 
+Davis, Bagozzi, Warshaw 
+1992 
+MM 
+Theory of Planned Behavior 
+Ajzen 
+1985 
+TPB 
+Combined TAM and TPB 
+Taylor, Todd 
+1995 
+C-TAM-TPB 
+Innovation Diffusion Theory 
+Moore, Benbasat 
+1991 
+IDT 
+Social Cognitive Theory 
+Co
+
+--- Chunk 11 ---
+rshaw 
+1992 
+MM 
+Theory of Planned Behavior 
+Ajzen 
+1985 
+TPB 
+Combined TAM and TPB 
+Taylor, Todd 
+1995 
+C-TAM-TPB 
+Innovation Diffusion Theory 
+Moore, Benbasat 
+1991 
+IDT 
+Social Cognitive Theory 
+Compeau, Higgins 
+1995 
+SCT 
+Table 1. Behavioral and Acceptance Models that constitute UTAUT 
+ 
+Because these models (Table 1) only discuss acceptance from different individual, cognitive or interpersonal perspectives, we 
+decided to build this study on UTAUT as a unified theory. As it connects individual advantages of all concepts, it is able to 
+measure the level of acceptance of certain technologies more adequately (Venkatesh et al., 2003). This is important for our 
+goals as we need a theoretical basis that offers a holistic framework to measure many different types of influencing factors. 
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+3 
+All of them are
+
+--- Chunk 12 ---
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+3 
+All of them are relevant when it comes to the (non-) usage of social media services and especially the frequently used TAM 
+disregards social and group effects which seem to be very important in this research field. For example, Bagozzi (2007) 
+demonstrates the relevance of cultural impacts based on this model. 
+ 
+Figure 1. Research model 
+UTAUT consists of four major determinants – Performance Expectancy, Effort Expectancy, Social Influence and Facilitating 
+Conditions – that can directly affect the Use Behavior or indirectly through Behavioral Intention. For our study, we 
+understand these two dependent constructs as the intention to interact or the actual interaction with a political social media 
+appearance. Furthermore, each determinant is influenced by at least two of the following key moderators: G
+
+--- Chunk 13 ---
+structs as the intention to interact or the actual interaction with a political social media 
+appearance. Furthermore, each determinant is influenced by at least two of the following key moderators: Gender, Age, 
+Experience and Voluntariness of Use. The entire model including our underlying hypotheses is presented in Figure 1. 
+Derivation of hypotheses referring to the determinants of UTAUT 
+By applying UTAUT to our research question, the four determinants (Figure 1) can explain why users behave or intent to 
+behave on social media platforms in a certain way. These first insights can assist political institutions to adjust their 
+appearances. To address these effects and measure them adequately later on, we state the following seven hypotheses: 
+The first determinant Performance Expectancy reflects the level of confidence a user has in a technology or system. Being 
+“the strongest predictor of intention”, Venkatesh et al. (2003) emphasize its importance within UTAUT. As factors 
+modera
+
+--- Chunk 14 ---
+reflects the level of confidence a user has in a technology or system. Being 
+“the strongest predictor of intention”, Venkatesh et al. (2003) emphasize its importance within UTAUT. As factors 
+moderating the effect of performance expectations towards the Behavioral Intention, UTAUT refers to Gender and Age. With 
+respect to Gender, several studies claim that men and women use the internet in different manners. Setting the focus on 
+Germany, a study on behalf of the two public television stations reveals a gap of 15% between both genders which clearly 
+favors men with respect to the range of internet-based applications they use (ARD/ZDF, 2011). This assumption leads us to 
+the first hypothesis within the political environment: 
+H1a: Male individuals expect a wider scope of social media functions used by political campaigns than women.  
+Another important UTAUT moderator that affects Performance Expectancy is Age. According to the Federal Statistical 
+Office in Germany, nearly 40% of th
+
+--- Chunk 15 ---
+ctions used by political campaigns than women.  
+Another important UTAUT moderator that affects Performance Expectancy is Age. According to the Federal Statistical 
+Office in Germany, nearly 40% of the population is older than 50 years (DESTATIS, 2009). However, only a quarter of them 
+use the Internet on a regular basis – the others cannot be reached by political social media appearances a priori – whereas we 
+can assume a nearly 100% penetration within the group of people younger than 50 years (ARD/ZDF, 2011). Following these 
+numbers, we hypothesize with regard to our research question: 
+H1b: The older an individual is, the less he or she finds merit in politically driven social media appearances. 
+The second determinant Effort Expectancy combines elements of TAM and IDT (Perceived ease of use) as well as MPCU 
+(Complexity) and puts them together to describe the effort a user must invest to handle a technology (Venkatesh et al., 2003). 
+In terms of our research topic, we have to mea
+
+--- Chunk 16 ---
+of use) as well as MPCU 
+(Complexity) and puts them together to describe the effort a user must invest to handle a technology (Venkatesh et al., 2003). 
+In terms of our research topic, we have to measure the effort one has to put in to gain access to a social media service and the 
+necessary technological requirements (e.g. equipment or devices). Level of Experience is one of the key moderators for this 
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+4 
+determinant; as stated before, it is not linked to Age, though. We assume that younger people are more experienced with the 
+usage of social media services and must invest less effort to capitalize on them. 
+H2a: A higher level of experience - especially of younger users - leads to less effort one has to invest in order to gain access 
+to politically driven social media appearances. 
+In order to be capab
+
+--- Chunk 17 ---
+H2a: A higher level of experience - especially of younger users - leads to less effort one has to invest in order to gain access 
+to politically driven social media appearances. 
+In order to be capable of handling the moderator Experience in a next step, we had to operationalize it at first. Even though it 
+is not the only reliable indicator, we assume a positive correlation between a rising level of experience and frequent internet 
+usage over time. However, while UTAUT proposes gender differences as it is easier for men to gain access to the internet in 
+general, we refuse this argumentation with regard to the usage of social media services. Nowadays, there is no natural hurdle 
+for female users to take part in social media services apart from their own choice to ignore them. Therefore we expect that: 
+H2b: Gender differences will not have a significant impact on the effort users have to invest to gain access to politically 
+driven social media appearances. 
+The third UTAUT determin
+
+--- Chunk 18 ---
+we expect that: 
+H2b: Gender differences will not have a significant impact on the effort users have to invest to gain access to politically 
+driven social media appearances. 
+The third UTAUT determinant, Social Influence, is important in this research field because social media services are 
+predominantly interactive and offer new communication channels (Walther et al., 2008). With many relatives and friends 
+participating in certain social media services, we assume that the surroundings of a user play an important role if he or she 
+considers enrolling in a service, too (Ecclestone and Griseri, 2008). Especially unskilled users tend to bow to peer pressure, 
+so we expect a significant disparity with regard to the technological experience. We assume our political setting to foster this 
+effect even more because it’s an area with opinions and convictions being highly dominant: 
+H3a: Inexperienced social media users tend to be more influenced by others than experienced users, with polit
+
+--- Chunk 19 ---
+ffect even more because it’s an area with opinions and convictions being highly dominant: 
+H3a: Inexperienced social media users tend to be more influenced by others than experienced users, with politically 
+motivated social media appearances to foster this effect. 
+The moderator Voluntariness of Use can be utilized to differentiate between users who spend their time with a social media 
+service voluntarily and those who have to use it for business reasons. If a user has to integrate social media services into his 
+daily working routines, e.g. to work together with other colleagues in a collaborative intranet environment, we assume that he 
+or she tends to be less influenced by social relations in private ambience: 
+H3b: The lower the level of voluntariness of a user is, the lower is his receptiveness for political social media appearances. 
+The last determinant, Facilitating Conditions, was derived by Venkatesh et al. (2003) from multiple acceptance models 
+UTAUT is based on (e.g. Per
+
+--- Chunk 20 ---
+eceptiveness for political social media appearances. 
+The last determinant, Facilitating Conditions, was derived by Venkatesh et al. (2003) from multiple acceptance models 
+UTAUT is based on (e.g. Perceived behavioral con-trol of TPB and C-TAM-TPB, Facilitating Conditions of MCPU or 
+Compatibility of IDT). As many aspects in this area are already covered by Performance Expectancy, the authors describe a 
+direct influence of Facilitating Conditions towards the actual behavior on a social media platform but not towards the 
+intention to potentially use it. In this study, we determine the level of political interest within this category, with Age being 
+the key moderator. Predominantly, younger people show a lack of interest for political topics which means that parties are 
+potentially struggling to attract this user group (Walther et al., 2008). 
+H4: Younger users with less interest in political topics are tougher to address with politically motivated social media 
+appearances in contra
+
+--- Chunk 21 ---
+gling to attract this user group (Walther et al., 2008). 
+H4: Younger users with less interest in political topics are tougher to address with politically motivated social media 
+appearances in contrast to older ones. 
+RESEARCH METHOD 
+This section explains our research methodology consisting of a split questionnaire with a) an adaptive conjoint-analysis and 
+b) rating questions on Likert scales as well as several Analyses of Variances (ANOVAs). 
+General survey settings 
+To test our hypotheses with several ANOVAs, we developed a questionnaire with two major sections:  
+The first section is used for an adaptive conjoint-analysis to examine Performance Expectancy in detail. Thereby we cope 
+with the dominant role of this determinant which we explained earlier. We conduct an adaptive conjoint-analysis to identify 
+those functions of social media services that play the most important role for the users and, therefore, meet their performance 
+expectations best. The second section of the que
+
+--- Chunk 22 ---
+-analysis to identify 
+those functions of social media services that play the most important role for the users and, therefore, meet their performance 
+expectations best. The second section of the questionnaire is built up of questions relating to the other determinants mostly 
+using Likert-scales. Furthermore, demographic user data was surveyed at the end to handle the four UTAUT moderators. 
+Although this setting is vulnerable to a sample bias, we focused on students as our main target group to test the basic 
+functionality of our model (Bortz and Döring, 2006). Members of this group are not only very familiar with social media 
+services in general as they grew up with them but they are also of high political interest due to their level of education 
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+5 
+(Pempek et al., 2009; Hillygus, 2005). However, it wi
+
+--- Chunk 23 ---
+media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+5 
+(Pempek et al., 2009; Hillygus, 2005). However, it will be necessary to widen the range of our target group within further 
+(intercultural) studies. 
+We decided to use an online survey as it is necessary to access computer-assistance when applying an adaptive form of a 
+conjoint-analysis. This is in line with our research question as you need access to the internet in order to use social media 
+services. The link to our questionnaire was distributed through various communication channels including online forums, 
+appropriate groups within social networks sites (e.g. groups containing political discussions) and Twitter, but also via offline 
+invitations at several universities and viral announcements to avoid data bias.  
+Adaptive conjoint-analysis to measure performance expectations of social media services 
+To deal with the UTAUT determinan
+
+--- Chunk 24 ---
+tations at several universities and viral announcements to avoid data bias.  
+Adaptive conjoint-analysis to measure performance expectations of social media services 
+To deal with the UTAUT determinant Performance Expectancy, we had to figure out which features of social media services 
+are most appreciated by its users. A conjoint-analysis is a suitable method to split higher-ranking feature categories (groups) 
+into several attributes (functions) which receive an individual value by users’ decision (Johnson, 1987; Green and Rao, 
+1971). While a user has to categorize every possible feature combination in a full-profile approach (e.g. choice based), a 
+trade-off approach is supported by computer calculations to reduce the necessary amount of comparisons (Johnson, 1987). 
+We applied the adaptive conjoint-analysis to avoid the “possibility of information overload” (Green and Srinivasan, 1978), 
+one can expect because of the huge diversity of social media services and its functions. 
+In
+
+--- Chunk 25 ---
+aptive conjoint-analysis to avoid the “possibility of information overload” (Green and Srinivasan, 1978), 
+one can expect because of the huge diversity of social media services and its functions. 
+In a first step, we had to identify the main social media services that were used in Germany compared to the worldwide 
+rankings. Referring to traffic ranks and page views as well as the ALEXA ranking (2010), we arranged a top ten list of 
+different service types like social media networks, blogging services, picture- and video-sharing services (Table 2). 
+ 
+Germany 
+Global 
+Rank 
+Website 
+Rank 
+Website 
+3 
+Facebook (www.facebook.com) 
+2 
+Facebook (www.facebook.com) 
+4 
+YouTube (www.youtube.com) 
+3 
+YouTube (www.youtube.com) 
+11 
+Twitter (www.twitter.com) 
+11 
+Twitter (www.twitter.com) 
+15 
+StudiVZ (www.studivz.de) 
+19 
+MySpace (ww.myspace.com) 
+16 
+XING (www.xing.de) 
+30 
+LinkedIn (ww.linkedin.com) 
+20 
+Wer-kennt-wen (www.wer-kennt-wen.de/) 
+31 
+Flickr (www.flickr.com) 
+21 
+MeinVZ (www.meinv
+
+--- Chunk 26 ---
+VZ (www.studivz.de) 
+19 
+MySpace (ww.myspace.com) 
+16 
+XING (www.xing.de) 
+30 
+LinkedIn (ww.linkedin.com) 
+20 
+Wer-kennt-wen (www.wer-kennt-wen.de/) 
+31 
+Flickr (www.flickr.com) 
+21 
+MeinVZ (www.meinvz.net) 
+64 
+Orkut (www.orkut.com) 
+24 
+MySpace (ww.myspace.com) 
+68 
+hi5 (www.hi5.com) 
+31 
+SchuelerVZ (www.schuelervz.net) 
+154 
+Tagged (www.tagged.com) 
+39 
+Flickr (www.flickr.com) 
+229 
+XING (www.xing.de) 
+Table 2. Top ten ranking of social media services in Germany and worldwide 
+We decided to vary the social media service type and, therefore, to analyze the features of the highest ranked social networks 
+(Facebook, MySpace, Xing, LinkedIn and StudiVZ), video-platform (YouTube) and blogging-service (Twitter). According to 
+Wattal et al. (2010) this approach is reasonable because diverse services can trigger different “properties and capabilities” 
+resulting in different use behaviors. Each service was then examined individually and a list of 33 main functions could be 
+created by match
+
+--- Chunk 27 ---
+rvices can trigger different “properties and capabilities” 
+resulting in different use behaviors. Each service was then examined individually and a list of 33 main functions could be 
+created by matching the results of every service. We tested various other services from the ALEXA ranking as well but could 
+not identify any additional main functions. Therefore, we rearranged all functions and spread them to eight groups which are 
+the basis of the adaptive conjoint-analysis (Table 3). 
+At the beginning of our questionnaire, the respondents had to classify the relevance of each function within a certain group 
+based on their personal preferences; the opportunity to suspend a function was not allowed as all of them should be judged 
+(Herrmann et al., 2003). All functions were measured using a nine-point Likert scale ranging from 1 (absolutely irrelevant) to 
+9 (absolutely necessary). In a second step the participants were asked to rank each group relative to one another as they had to 
+s
+
+--- Chunk 28 ---
+a nine-point Likert scale ranging from 1 (absolutely irrelevant) to 
+9 (absolutely necessary). In a second step the participants were asked to rank each group relative to one another as they had to 
+specify the distance between the most and least important function of a group. The adaptive conjoint processor of the survey 
+tool then calculates two virtual social media services which contain different functions of the same groups; at the beginning 
+of this decompositional part, functions of two groups, in later stages three and four groups are presented (Green et al., 1991). 
+The participant had to compare and weigh these fictitious services while up to 30 new ones are generated based on his or her 
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+6 
+replies. Finally, the users’ ratings were calibrated and we received individual, calibrated values for every
+
+--- Chunk 29 ---
+enth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+6 
+replies. Finally, the users’ ratings were calibrated and we received individual, calibrated values for every function and the 
+relative importance of each group. 
+ 
+Group 
+Functions 
+ 
+Group 
+Functions 
+Personal Information 
+ 
+Picture Galleries 
+Status Message 
+ 
+Picture-to-User Linkage 
+Events & Meetings 
+ 
+Picture Information 
+Profile 
+Guestbook & Pinboard 
+ 
+Picture 
+Picture Annotation 
+Video Categorisation 
+ 
+Applications 
+Channel Subscription 
+ 
+Games 
+Playlists 
+ 
+Links 
+Video Annotation 
+ 
+Chats 
+Rating 
+ 
+Premium Accounts 
+Video 
+RSS-Feeds (Video) 
+ 
+Extras 
+Mobile Access 
+Profile Restrictions 
+ 
+Blog Post 
+Status Message 
+ 
+RSS Feeds (Blogs) 
+Events & Meetings 
+ 
+Blog Subscription 
+Data Privacy 
+Guestbook & Pinboard 
+ 
+Blog 
+Blog Annotation 
+User-to-User Communication 
+ 
+Discussion Forum 
+Profile Linkage 
+ 
+Collaboration 
+Diary Management 
+User Link-Up 
+Groups 
+ 
+ 
+ 
+ 
+Table 3. Classifi
+
+--- Chunk 30 ---
+vacy 
+Guestbook & Pinboard 
+ 
+Blog 
+Blog Annotation 
+User-to-User Communication 
+ 
+Discussion Forum 
+Profile Linkage 
+ 
+Collaboration 
+Diary Management 
+User Link-Up 
+Groups 
+ 
+ 
+ 
+ 
+Table 3. Classification of the 33 main functions into eight superordinate groups 
+ 
+User behaviour on social media services 
+While the adaptive conjoint-analysis was used to deal with Performance Expectancy, the three remaining UTAUT 
+determinants were investigated with direct questions in the second part of the survey. The participants had to state for each of 
+the seven examined social media services whether they use it or not. Depending on the answers, it was their task to categorize 
+the degree of difficulty on a Likert scale regarding the registration process and the overall handling of a certain service. This 
+section of the questionnaire is used to explain the determinant Effort Expectancy. Similarly, Social Influence and Facilitating 
+Conditions were measured. On the one hand the responders had to
+
+--- Chunk 31 ---
+This 
+section of the questionnaire is used to explain the determinant Effort Expectancy. Similarly, Social Influence and Facilitating 
+Conditions were measured. On the one hand the responders had to answer questions referring to the use of social media 
+service within their social surroundings. On the other hand they had to state if there are specific reasons why they use social 
+media services (e.g. job-related purposes).  
+RESULTS 
+In the following section of this study, we present the most relevant functions of social media services as results of the 
+adaptive conjoint-analysis and then test our hypotheses with several ANOVAs. 
+Selection and categorization of participants 
+After a period of six weeks, our questionnaire was completely and correctly filled out by 173 participants with an average 
+response time of 24.5 minutes. We checked their data reliability with t-tests using the coefficient of determination (R-
+squared) we received from the conjoint-analysis results. Therefore, t
+
+--- Chunk 32 ---
+average 
+response time of 24.5 minutes. We checked their data reliability with t-tests using the coefficient of determination (R-
+squared) we received from the conjoint-analysis results. Therefore, this study is based on a final sample of n=134 as we had 
+to refuse 39 participants whose response behavior was not consistent on a 1% level of significance. This meets the 
+recommendation of Martens’ scale regarding the coefficient of determination (Martens, 2003). 
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+7 
+As the setting of UTAUT defines, we used the four key moderators within this study to cluster the participants into groups. 
+The UTAUT determinant Gender is explained by the demographical user data and its general trend correlates with the 
+literature (ARD/ZDF, 2001): 48 participants (35%) are female and 86 (64%) are male. Since we chose students
+
+--- Chunk 33 ---
+nder is explained by the demographical user data and its general trend correlates with the 
+literature (ARD/ZDF, 2001): 48 participants (35%) are female and 86 (64%) are male. Since we chose students as our target 
+group for this test, the age pattern ranges between 18 and 30 years in general with only a few participants being older than 40 
+years. We divided all participants into four groups using quartile rankings in order to deal with the UTAUT determinant Age. 
+Level of Experience and Voluntariness of Use were classified through multiple survey questions. We distributed points for a 
+frequent and periodic use of the examined social media services, analogue to our six-point measuring scale ranging from 6 
+points for a frequent and regular use to 1 point if a participant uses a service only occasionally. Voluntariness was measured 
+with several questions related to a participants’ use structure. The less the participant is forced to use social media services 
+(e.g. for business reaso
+
+--- Chunk 34 ---
+nly occasionally. Voluntariness was measured 
+with several questions related to a participants’ use structure. The less the participant is forced to use social media services 
+(e.g. for business reasons), the more points he or she received. Again, both overall results were divided into four groups 
+based on the quartiles. To avoid equal scores in different quartiles, we slightly varied the number of participants within the 
+groups. The final classification is presented in Table 4: 
+ 
+Group Name  
+Criteria 
+N = 134 
+Male 
+86 
+Gender 
+Female 
+48 
+Age ≤ 21 years 
+36 
+22 years ≤ Age ≤ 24 years 
+33 
+25 years ≤ Age ≤ 27 years 
+38 
+Age 
+28 years ≤ Age 
+27 
+Experience Points (EP) ≤ 16 
+28 
+17 ≤ EP ≤ 21 
+38 
+22 ≤ EP ≤ 26 
+36 
+Experience 
+27 ≤ EP 
+32 
+Voluntariness Points (VP) ≤ 5 
+32 
+6 ≤ VP ≤ 8 
+37 
+VP = 9 
+27 
+Voluntariness of Use 
+10 ≤ VP 
+38 
+Table 4. Classification of participants based on the four UTAUT moderators 
+ 
+Adaptive conjoint-analysis 
+The calibrated values for every function we
+
+--- Chunk 35 ---
+7 
+VP = 9 
+27 
+Voluntariness of Use 
+10 ≤ VP 
+38 
+Table 4. Classification of participants based on the four UTAUT moderators 
+ 
+Adaptive conjoint-analysis 
+The calibrated values for every function we received from the adaptive conjoint-analysis were normalized and scaled in order 
+to facilitate inter-group comparisons as all functions are arranged within the same scope. Furthermore, this allows us to match 
+the relative relevance of each group as well (Johnson, 1987). Table 5 shows the calibrated, normalized and scaled values of 
+the functions and the relative importance of each group. 
+Our results illustrate a major importance of the groups Profile (16.23%) and Extras (17.57%) with Personal Information and 
+Chats being most relevant for the social media users. In addition, there is a considerable difference between the two groups 
+Pictures (12.05%) and Videos (10.32%), even though they contain similar types of functions. The creation of in-depth 
+content such as Blog Posts (7.95), Vid
+
+--- Chunk 36 ---
+iderable difference between the two groups 
+Pictures (12.05%) and Videos (10.32%), even though they contain similar types of functions. The creation of in-depth 
+content such as Blog Posts (7.95), Video Categorization (6.24) or Discussion Forums (8.55) is relevant, independent of its 
+respective group importance. Within the group Data Privacy (10.55%), Profile Restrictions obtain the highest value of 7.67. 
+ 
+ 
+ 
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+8 
+Group (relative importance) 
+Function  
+Value (scaled & normalized) 
+Personal Information 
+14.16 
+Status Message 
+  6.05 
+Events & Meetings 
+  6.36 
+Profile (16.23%) 
+Guestbook & Pinboard 
+  5.87 
+Picture Galleries 
+  8.57 
+Picture-to-User Linkage 
+  5.76 
+Picture Information 
+  5.86 
+Picture (12.05%) 
+Picture Annotation 
+  4.89 
+Video Categorization 
+  6.24 
+Channel Subscription 
+  4.10 
+Playlis
+
+--- Chunk 37 ---
+cture Galleries 
+  8.57 
+Picture-to-User Linkage 
+  5.76 
+Picture Information 
+  5.86 
+Picture (12.05%) 
+Picture Annotation 
+  4.89 
+Video Categorization 
+  6.24 
+Channel Subscription 
+  4.10 
+Playlists 
+  5.52 
+Video Annotation 
+  6.26 
+Rating 
+  6.85 
+Video (10.32%) 
+RSS-Feeds (Video) 
+  3.73 
+User-to-User Communication 
+11.83 
+Profile Linkage 
+  5.39 
+User Link-Up (12.61%) 
+Groups 
+  2.6 
+Blog Post 
+  7.95 
+RSS Feeds (Blogs) 
+  3.16 
+Blog Subscription 
+  4.37 
+Blog (10.29%) 
+Blog Annotation 
+  6.37 
+Discussion Forum 
+  8.55 
+Collaboration (10.36%) 
+Diary Management 
+  2.73 
+Applications 
+  9.84 
+Games 
+  6.23 
+Links 
+11.75 
+Chats 
+13.75 
+Premium Accounts 
+  2.30 
+Extras (17.57%) 
+Mobile Access 
+  9.92 
+Profile Restrictions 
+  7.67 
+Profile Linkage Prohibition 
+  4.48 
+Contact Restrictions 
+  4.11 
+User Blacklist 
+  5.54 
+Data Privacy (10.55%) 
+Personal Information 
+14.16 
+Table 5. Results of the adaptive conjoint-analysis 
+ANOVAs to test our hypotheses 
+To test our hypotheses within
+
+--- Chunk 38 ---
+ns 
+  4.11 
+User Blacklist 
+  5.54 
+Data Privacy (10.55%) 
+Personal Information 
+14.16 
+Table 5. Results of the adaptive conjoint-analysis 
+ANOVAs to test our hypotheses 
+To test our hypotheses within the UTAUT model, we conducted several one-way analyses of variances (ANOVA). We first 
+applied the Kolmogorov-Smirnov test to check whether our data is normally distributed and proved homoscedasticity with 
+Levene’s test to meet the requirements of this method. The first ANOVA was used to analyze if gender differences lead to a 
+divergent scope of social media functions (Hypothesis 1a). We took Gender as the independent variable and the individual 
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+9 
+relative importance of a certain group from the conjoint-analysis as the dependent variable. On the 5% - level of significance, 
+our results show that differences
+
+--- Chunk 39 ---
+go, Illinois, August 15-17, 2013. 
+9 
+relative importance of a certain group from the conjoint-analysis as the dependent variable. On the 5% - level of significance, 
+our results show that differences occur within the groups User Link-Up and on the 10% - level in the groups Profile and 
+Video. We repeated multiple ANOVAs for the UTAUT moderator Age to measure its influence on Performance Expectancy 
+as well as for the remaining determinants and its respective affecting moderators. Table 6 provides an overview of our results 
+including significance values.  
+Group 
+ 
+Sum of Squares 
+df 
+Mean Square 
+Sig. 
+Between groups 
+  341.845 
+   1 
+  341.845 
+0.032 
+Within groups 
+3403.700 
+  32 
+    25.786 
+ 
+User Link-Up 
+ 
+Total 
+3745.545 
+133 
+ 
+ 
+Between groups 
+  135.978 
+    1 
+   135.978 
+0.06 
+Within groups 
+    37.713 
+  32 
+     37.713 
+ 
+Profile 
+ 
+Total 
+5114.126 
+133 
+ 
+ 
+Between groups 
+    52.808 
+    1 
+     52.808 
+0.064 
+Within groups 
+2000.725 
+  32 
+     15.157 
+ 
+Video 
+Total
+
+--- Chunk 40 ---
+Within groups 
+    37.713 
+  32 
+     37.713 
+ 
+Profile 
+ 
+Total 
+5114.126 
+133 
+ 
+ 
+Between groups 
+    52.808 
+    1 
+     52.808 
+0.064 
+Within groups 
+2000.725 
+  32 
+     15.157 
+ 
+Video 
+Total 
+2053.533 
+133 
+ 
+ 
+Table 6. One-way ANOVA of the UTAUT determinant Performance Expectancy  
+(selected results referring to the moderator Gender) 
+Group 
+ 
+Sum of Squares 
+df 
+Mean Square 
+Sig. 
+Between groups 
+3241.939 
+   3 
+1080.646 
+0.035 
+Within groups 
+2481.404 
+  30 
+     19.088 
+ 
+Experience 
+ 
+Total 
+5723.343 
+133 
+ 
+ 
+Between groups 
+3431.547 
+   3 
+1143.849 
+0.041 
+Within groups 
+2291.796 
+  30 
+     17.629 
+ 
+Voluntariness 
+of Use 
+ 
+Total 
+5723.343 
+133 
+ 
+ 
+Table 7. One-way ANOVA of the UTAUT determinant Social Influence 
+Group 
+ 
+Sum of Squares 
+df 
+Mean Square 
+Sig. 
+Between groups 
+  37.605 
+   3 
+12.535 
+0.049 
+Within groups 
+606.492 
+  30 
+  4.665 
+ 
+Age 
+Total 
+644.097 
+133 
+ 
+ 
+Table 8. One-way ANOVA of the UTAUT determinant Facilitating Conditions 
+On the 95%-confide
+
+--- Chunk 41 ---
+roups 
+  37.605 
+   3 
+12.535 
+0.049 
+Within groups 
+606.492 
+  30 
+  4.665 
+ 
+Age 
+Total 
+644.097 
+133 
+ 
+ 
+Table 8. One-way ANOVA of the UTAUT determinant Facilitating Conditions 
+On the 95%-confidence interval, we verified further significant differences related to the UTAUT determinant Social 
+Influence with respect to the level of Experience as well as Voluntariness of Use (Table 7). Furthermore, the results show that 
+Age moderates the Facilitating Conditions, which means political interest in this study (Table 8). Hypothesis H1a is 
+supported because we could prove some significant gender differences with regard to major social media functions. 
+Comparisons show that male participants, on average, rated group values and related functions higher than female (e.g. the 
+value of the most relevant group Profile is rated with an average score of 16.99 by male and only 14.88 by female). H1b is 
+rejected as there is no argument for Age being a hurdle to access (politically motivated) s
+
+--- Chunk 42 ---
+st relevant group Profile is rated with an average score of 16.99 by male and only 14.88 by female). H1b is 
+rejected as there is no argument for Age being a hurdle to access (politically motivated) social media appearances. Both Age 
+and Experience do not have an impact on the expected effort a user has to invest in order use a social media service; thus H2a 
+has to be refused but H2b is confirmed. We could identify a significant effect of the user’s experience towards Social 
+Influence as well (H3a is confirmed). A deeper analysis of our results made clear that the first quartile, representing the 
+inexperienced users, is affected by social surrounding twice as much as the others. We also found the same effect for users 
+who deal with social media services for business reasons in contrast to the rest, supporting H3b. In the end, our results 
+confirm that a majority of younger users is less interested in political topics than older ones (H4). 
+Bühler et al. 
+ 
+The impact of social med
+
+--- Chunk 43 ---
+t to the rest, supporting H3b. In the end, our results 
+confirm that a majority of younger users is less interested in political topics than older ones (H4). 
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+10 
+DISCUSSION 
+Findings 
+In this study, we analyze which functions of social media services have an impact on users’ acceptance and therefore – with 
+regard to UTAUT – influence their Behavioral Intention to use such services. We applied an adaptive conjoint-analysis to 
+identify these functions and to explain the UTAUT determinant Performance Expectancy. Referring to the original research 
+question and the aim of this study, our results demonstrate that social media appearances can play a significant role during 
+election campaigns. From what we found, political campaigns in Germany should focus on individual profiles including 
+personal information
+
+--- Chunk 44 ---
+social media appearances can play a significant role during 
+election campaigns. From what we found, political campaigns in Germany should focus on individual profiles including 
+personal information of their top candidates and interactive elements at first. Especially user-to-user communication (e.g. 
+personal message functions) and multi-user chats should be adopted to keep direct contact with potential voters as well as 
+cross references to appearances on other services via links. This means, in terms of UTAUT, that Behavioral Intention of a 
+user to interact with political motivated social media appearances rises if these functions are implemented properly. In 
+contrast, multimedia elements seem to be less important with pictures outranking videos. 
+Our results also show that there is no need for political actors to pay much attention to possible excess supply: Too many 
+adopted functions do not raise Effort Expectancy and have no impact on Behavioral Intention. In addition, politi
+
+--- Chunk 45 ---
+no need for political actors to pay much attention to possible excess supply: Too many 
+adopted functions do not raise Effort Expectancy and have no impact on Behavioral Intention. In addition, political 
+appearances should consider addressing both experienced social media users and those who use social media services for 
+business reasons. As we proved before, theses users act upon their environment distinctively but are rarely influenced by 
+others. That is why political actors can possibly gain attraction to a complete community behind these essential users. Finally, 
+UTAUT describes a direct effect of the Facilitating Conditions – in this study political interest – towards the actual Use 
+Behavior. But according to our results, younger users do not normally draw the attention to political social media 
+appearances even though they use these services for other reasons. In order to win over younger and already active users, 
+popular functions – like those we identified in the conjoin
+
+--- Chunk 46 ---
+cal social media 
+appearances even though they use these services for other reasons. In order to win over younger and already active users, 
+popular functions – like those we identified in the conjoint-analysis – should be adopted to influence their actual behavior by 
+changing their intention first. 
+Limitations and Further Research 
+To test our model, we used students as our target group. This decision could have affected our results because it entails 
+certain influencing factors like academic background or financial status. To prevent these factors from biasing our results we 
+plan to stretch this study to a sample that represents a cross-section of the population. Another limitation is the cluster of 
+functions we examined as social media services offer new opportunities in quick succession. Especially Facebook has taken 
+over a dominant position as the leading social network site in recent years and extends its functional spectrum on a regular 
+basis. Therefore, it is important t
+
+--- Chunk 47 ---
+ession. Especially Facebook has taken 
+over a dominant position as the leading social network site in recent years and extends its functional spectrum on a regular 
+basis. Therefore, it is important to fall back to abstract functional groups to be capable of integrating upcoming functions to 
+our research model more easily. 
+As stated in the introduction, making use of social media services for political reasons was originally established within the 
+United States of America. Krasnova et al. (2012) summarize some cultural differences between countries that are based on 
+varying moral concepts and which lead to individual patterns of use. According to the use of UTAUT, we developed a 
+research model which is also suitable to identify intercultural differences. In a further study, we plan to compare the United 
+States of America (looking back to their election in 2012) and Germany (with an election to come in September, 2013). 
+These country-specific results could give political actors i
+
+--- Chunk 48 ---
+compare the United 
+States of America (looking back to their election in 2012) and Germany (with an election to come in September, 2013). 
+These country-specific results could give political actors individual advice on how to arrange an optimal social media 
+appearance in order to attain the biggest effects.  
+REFERENCES 
+1. Ajzen, I. and Fishbein, M. (1980) Understanding attitudes and predicting social behavior, Prentice-Hall, Englewood 
+Cliffs. 
+2. Alexa: The top 500 sites on the web, http://www.alexa.com/topsites. 
+3. ARD/ZDF-Onlinestudie (2011) Entwicklung der Onlinenutzung in Deutschland 1997 bis 2011, http://www.ard-zdf-
+onlinestudie.de/index.php?id=onlinenutzungprozen0. 
+4. Bagozzi, R.P. (2007) The legacy of the technology acceptance model and a proposal for a paradigm shift, Journal of the 
+Association for Information Systems, 8, 4, 244–254. 
+5. Chiang, I., Huang, C.-Y., and Huang, C.-W. (2009) Characterizing web user’s degree of Web 2.0-ness, Journal of the 
+American Society
+
+--- Chunk 49 ---
+al of the 
+Association for Information Systems, 8, 4, 244–254. 
+5. Chiang, I., Huang, C.-Y., and Huang, C.-W. (2009) Characterizing web user’s degree of Web 2.0-ness, Journal of the 
+American Society for Information Science and Technology, 60, 7, 1349-1357. 
+6. Bortz, J. and Döring, N. (2006) Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler. Springer, 
+Berlin. 
+Bühler et al. 
+ 
+The impact of social media services on elections 
+Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois, August 15-17, 2013. 
+11 
+7. Coleman, S. (2005) New mediation and direct representation: reconceptualizing representation in the digital age, New 
+Media Society 7, 2, 177-198. 
+8. Davis, F.D. (1989): Perceived usefulness, perceived ease of use, and user acceptance of information technology, MIS 
+Quarterly, 13, 3, 319–340. 
+9. DESTATIS (2009), https://www.destatis.de/bevoelkerungspyramide. 
+10. Eccleston, D and Griseri, L (2009) How does Web 2.0 stretc
+
+--- Chunk 50 ---
+cceptance of information technology, MIS 
+Quarterly, 13, 3, 319–340. 
+9. DESTATIS (2009), https://www.destatis.de/bevoelkerungspyramide. 
+10. Eccleston, D and Griseri, L (2009) How does Web 2.0 stretch traditional influencing patterns?, International Journal of 
+Market Research, 50, 5, 591-616. 
+11. Fishbein, M. and Ajzen, I. (1975) Belief, attitude, intention, and behavior: An introduction to theory and research, 
+Addison-Wesley, Reading. 
+12. Green, P., Krieger, A.M., and Agarwal, M.K. (1991) Adaptive Conjoint Analysis: Some Caveats and Suggestions. 
+Journal of Marketing Research, 27, 2, 215-222. 
+13. Green, P.E. and Rao, V.R. (1971) Conjoint Measurement for Quantifying Judgemental Data, Journal of Marketing 
+Research, 8, 3, 355-363. 
+14. Green, P.E. and Srinivasan, V. (1978) Conjoint Analysis and in Consumer Research: Issues and Outlook, The Journal of 
+Consumer Research, 5, 2, 103-123. 
+15. Herrmann, A., Schmidt-Gallas, A., and Huber, F. (2003) Adaptive Conjoint Analysis: Understan
+
+--- Chunk 51 ---
+alysis and in Consumer Research: Issues and Outlook, The Journal of 
+Consumer Research, 5, 2, 103-123. 
+15. Herrmann, A., Schmidt-Gallas, A., and Huber, F. (2003) Adaptive Conjoint Analysis: Understanding the Methodology 
+and Assessing Reliability and Validity, in Gustafsson, A., Herrmann, A., and Huber, F. (Eds.) Conjoint Measurement - 
+Methods and Applications, Springer, Berlin, 305-330. 
+16. Hillygus, D. S. (2005) THE MISSING LINK: Exploring the Relationship Between Higher Education and Political 
+Engagement, Political Behavior, 27, 1, 25-47. 
+17. Hooghe, M. and Teepe, W. (2007) Party profiles on the web: an analysis of the logfiles of non-partisan interactive 
+political internet sites in the 2003 and 2004 election campaigns in Belgium, New Media Society 9, 6, 965-985. 
+18. Johnson, R.M. (1987) Adaptive Conjoint Analysis, Sawtooth Software Conference on Perceptual Mapping, Conjoint 
+Analysis, and Computer Interviewing, 253-265. 
+19. Krasnova, H., Veltri, N.F., and Günther, O. (2012)
+
+--- Chunk 52 ---
+. (1987) Adaptive Conjoint Analysis, Sawtooth Software Conference on Perceptual Mapping, Conjoint 
+Analysis, and Computer Interviewing, 253-265. 
+19. Krasnova, H., Veltri, N.F., and Günther, O. (2012) Die Rolle der Kultur in der Selbstoffenbarung und Privatsphäre in 
+sozialen Onlinenetzwerken, Wirtschaftsinformatik, 54, 3, 123-134. 
+20. Lim, S. and Palacios-Marques (2011) Culture and purpose of Web 2.0 service adoption: a study in the USA, Korea and 
+Spain, The Service Industries Journal, 31, 1, 123-131. 
+21. Martens, J. (2003) Statistische Datenanalyse mit SPSS für Windows. Oldenbourg, München. 
+22. O’Mera, T. (2008) US election 2008: From the web to the Oval Office, http://www.telegraph.co.uk/technology/ 
+3359011/US-election-2008-From-the-web-to-the-Oval-Office.html. 
+23. O'Reilly, T. (2005) What Is Web 2.0: Design Patterns and Business Models for the Next Genera-tion of Software, 
+http://oreilly.com/web2/archive/what-is-web-20.html. 
+24. Pempek, T., Yermolayeva, Y., and Calvert, S.
+
+--- Chunk 53 ---
+005) What Is Web 2.0: Design Patterns and Business Models for the Next Genera-tion of Software, 
+http://oreilly.com/web2/archive/what-is-web-20.html. 
+24. Pempek, T., Yermolayeva, Y., and Calvert, S. (2009) College students' social networking experiences on Facebook, 
+Journal of Applied Developmental Psychology, 30, 3 , 227-238. 
+25. Smith, A. (2009): The Internet's Role in Campaign 2008, http://www.pewinternet.org/~/media//Files/Reports/ 
+2009/the_Internets_Role_in_Campaign_2008.pdf. 
+26. Venkatesh, V. and Davis, F.D. (2000) A theoretical extension of the technology acceptance model: Four longitudinal 
+field studies, Management Science, 46, 2, 186–204. 
+27. Venkatesh, V., Morris, M. G., Davis G. B., and Davis, F. D. (2003) User Acceptance of Information Technology: 
+Toward a Unified View, MIS Quarterly, 28, 3, 425-478. 
+28. Von Pape, T. and Quandt, T. (2010) Wen erreicht der Wahlkampf 2.0? Media Perspektiven, 9, 390-398. 
+29. Walther, J., Van Der Heide, B., Kim S., Westerman, D., and
+
+--- Chunk 54 ---
+MIS Quarterly, 28, 3, 425-478. 
+28. Von Pape, T. and Quandt, T. (2010) Wen erreicht der Wahlkampf 2.0? Media Perspektiven, 9, 390-398. 
+29. Walther, J., Van Der Heide, B., Kim S., Westerman, D., and Tom Tong, S. (2008) The Role of Friends’ Appearance and 
+Behavior on Evaluations of Individuals on Facebook: Are We Known by the Company We Keep?, Human 
+Communication Research, 34, 28-49. 
+30. Wattal S., Schuff D., Mandviwalla, M, and Williams C (2010) Web 2.0 and Politics: The 2008 U.S presidential election 
+and an e-politics research agenda, MIS Quarterly, 34, 4, 669-688.
+
