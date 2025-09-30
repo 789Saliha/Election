@@ -2,19 +2,33 @@ import streamlit as st
 import faiss
 import pickle
 import numpy as np
+import os
 from sentence_transformers import SentenceTransformer
 from transformers import pipeline
 
 # 🔹 Load all models and data
 @st.cache_resource
 def load_models():
+    # Load embedding model
     embedder = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
-    index = faiss.read_index("../vector_store/vector_index.faiss")
-    with open("../vector_store/metadata.pkl", "rb") as f:
+    
+    # ✅ Build correct absolute paths (works in Streamlit Cloud)
+    base_path = os.path.dirname(__file__)
+    index_path = os.path.join(base_path, "../vector_store/vector_index.faiss")
+    meta_path = os.path.join(base_path, "../vector_store/metadata.pkl")
+
+    # Load FAISS index and metadata
+    index = faiss.read_index(index_path)
+    with open(meta_path, "rb") as f:
         metadata = pickle.load(f)
+    
+    # Load text generation model
     generator = pipeline("text2text-generation", model="google/flan-t5-base")
+    
     return embedder, index, metadata, generator
 
+
+# ✅ Load everything once
 embedder, index, metadata, generator = load_models()
 
 # 🧠 Streamlit UI
@@ -31,13 +45,13 @@ if query:
     k = 3
     distances, indices = index.search(query_embedding, k)
 
-    # Step 3: Combine context
+    # Step 3: Combine retrieved context
     context = ""
     sources = []
     for i, idx in enumerate(indices[0]):
         text = metadata[idx]["text"]
         src = metadata[idx]["source"]
-        context += text + "\n\n"
+        context += f"\n{text}\n"
         sources.append((src, text[:200] + "..."))
 
     # Step 4: Generate answer
